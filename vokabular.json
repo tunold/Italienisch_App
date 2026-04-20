@@ -1,0 +1,4150 @@
+[
+  {
+    "id": "bau_001",
+    "de": "die Schalung",
+    "it": "la cassaforma",
+    "kategorie": "Bauwesen",
+    "beispiel_it": "Dobbiamo montare la cassaforma prima del getto del calcestruzzo.",
+    "beispiel_de": "Wir müssen die Schalung vor dem Betonieren aufstellen.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "bau_002",
+    "de": "das Dach",
+    "it": "il tetto",
+    "kategorie": "Bauwesen",
+    "beispiel_it": "Il tetto deve essere impermeabile.",
+    "beispiel_de": "Das Dach muss wasserdicht sein.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 1,
+      "letzte_bewertung": 4
+    }
+  },
+  {
+    "id": "bau_003",
+    "de": "der Ziegel / die Dachpfanne",
+    "it": "il coppo",
+    "kategorie": "Bauwesen",
+    "beispiel_it": "I coppi tradizionali sono tipici della Toscana.",
+    "beispiel_de": "Die traditionellen Dachziegel sind typisch für die Toskana.",
+    "meta": {
+      "intervall_tage": 6,
+      "naechste_wiederholung": "2026-04-25",
+      "easiness_factor": 2.5,
+      "wiederholungen": 2,
+      "letzte_bewertung": 4
+    }
+  },
+  {
+    "id": "bau_004",
+    "de": "die Wärmepumpe",
+    "it": "la pompa di calore",
+    "kategorie": "Heizung/HVAC",
+    "beispiel_it": "La pompa di calore è più efficiente del riscaldamento a gas.",
+    "beispiel_de": "Die Wärmepumpe ist effizienter als Gasheizung.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "bau_005",
+    "de": "der Auftragnehmer / Handwerker",
+    "it": "l'impresa / il muratore",
+    "kategorie": "Bauwesen",
+    "beispiel_it": "L'impresa inizierà i lavori lunedì prossimo.",
+    "beispiel_de": "Der Auftragnehmer beginnt die Arbeiten nächsten Montag.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "bau_006",
+    "de": "der Kostenvoranschlag",
+    "it": "il preventivo",
+    "kategorie": "Bauwesen",
+    "beispiel_it": "Può mandarmi un preventivo entro venerdì?",
+    "beispiel_de": "Können Sie mir bis Freitag einen Kostenvoranschlag schicken?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    },
+    "cache": {
+      "ollama_erklaerung": "Certamente! Ecco la spiegazione di \"il preventivo\" in italiano, con traduzione e un esempio aggiuntivo, seguita dalla traduzione in tedesco:\n\n**Italiano:**\n\n\"Il preventivo\" (il preventivo) è un documento scritto che stima il costo di un lavoro o di un servizio. Indica quali sono i materiali necessari, le ore di lavoro previste e il prezzo totale. È molto importante chiedere un preventivo prima di iniziare qualsiasi lavoro, per evitare sorprese.  Quando chiedi \"Può mandarmi un preventivo entro venerdì?\", stai chiedendo di ricevere una stima scritta dei costi entro quella data.\n\n**Suggerimento grammaticale:** Nota come \"preventivo\" è un sostantivo maschile (quindi \"il preventivo\").\n\n**Secondo esempio pratico:** \"Vorrei avere un preventivo per la ristrutturazione del bagno.\"\n\n**Deutsch:**\n\n\"Il preventivo\" (der Kostenvoranschlag) ist ein schriftliches Dokument, das die Kosten für eine Arbeit oder Dienstleistung schätzt. Es gibt an, welche Materialien benötigt werden, wie viele Arbeitsstunden voraussichtlich anfallen und der Gesamtpreis. Es ist sehr wichtig, einen Kostenvoranschlag einzuholen, bevor eine Arbeit beginnt, um unerwartete Kosten zu vermeiden. Wenn Sie \"Può mandarmi un preventivo entro venerdì?\" fragen, bitten Sie darum, eine schriftliche Kostenschätzung bis zu diesem Datum zu erhalten.\n\n**Zusätzliches Beispiel:** \"Ich möchte einen Kostenvoranschlag für die Renovierung des Badezimmers bekommen.\" (Ich möchte einen Kostenvoranschlag für die Renovierung des Badezimmers.)\n"
+    }
+  },
+  {
+    "id": "bau_007",
+    "de": "der Beton",
+    "it": "il calcestruzzo / il cemento",
+    "kategorie": "Bauwesen",
+    "beispiel_it": "Il calcestruzzo deve asciugare per almeno 28 giorni.",
+    "beispiel_de": "Der Beton muss mindestens 28 Tage trocknen.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "bau_008",
+    "de": "die Isolierung / Dämmung",
+    "it": "l'isolamento / la coibentazione",
+    "kategorie": "Bauwesen",
+    "beispiel_it": "L'isolamento termico riduce i costi di riscaldamento.",
+    "beispiel_de": "Die Wärmedämmung senkt die Heizkosten.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "bau_009",
+    "de": "die Baustelle",
+    "it": "il cantiere",
+    "kategorie": "Bauwesen",
+    "beispiel_it": "Il cantiere aprirà la settimana prossima.",
+    "beispiel_de": "Die Baustelle öffnet nächste Woche.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 1,
+      "letzte_bewertung": 4
+    }
+  },
+  {
+    "id": "bau_010",
+    "de": "die Mauer / Wand",
+    "it": "il muro / la parete",
+    "kategorie": "Bauwesen",
+    "beispiel_it": "Il muro esterno è in pietra, la parete interna in cartongesso.",
+    "beispiel_de": "Die Außenmauer ist aus Stein, die Innenwand aus Gipskarton.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 1,
+      "letzte_bewertung": 4
+    }
+  },
+  {
+    "id": "hvac_001",
+    "de": "die Fußbodenheizung",
+    "it": "il riscaldamento a pavimento",
+    "kategorie": "Heizung/HVAC",
+    "beispiel_it": "Il riscaldamento a pavimento garantisce un calore uniforme.",
+    "beispiel_de": "Die Fußbodenheizung sorgt für gleichmäßige Wärme.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "hvac_002",
+    "de": "der Heizkörper",
+    "it": "il radiatore / il termosifone",
+    "kategorie": "Heizung/HVAC",
+    "beispiel_it": "I termosifoni sono ancora molto comuni in Italia.",
+    "beispiel_de": "Heizkörper sind in Italien noch sehr verbreitet.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "hvac_003",
+    "de": "der Klempner / Installateur",
+    "it": "l'idraulico",
+    "kategorie": "Heizung/HVAC",
+    "beispiel_it": "Dobbiamo chiamare l'idraulico per il perdita d'acqua.",
+    "beispiel_de": "Wir müssen den Klempner für das Wasserleck anrufen.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "alltag_001",
+    "de": "der Supermarkt",
+    "it": "il supermercato",
+    "kategorie": "Alltag",
+    "beispiel_it": "Il supermercato chiude alle venti.",
+    "beispiel_de": "Der Supermarkt schließt um zwanzig Uhr.",
+    "meta": {
+      "intervall_tage": 6,
+      "naechste_wiederholung": "2026-04-25",
+      "easiness_factor": 2.5,
+      "wiederholungen": 2,
+      "letzte_bewertung": 4
+    }
+  },
+  {
+    "id": "alltag_002",
+    "de": "die Apotheke",
+    "it": "la farmacia",
+    "kategorie": "Alltag",
+    "beispiel_it": "La farmacia di turno è aperta anche domenica.",
+    "beispiel_de": "Die Notapotheke hat auch sonntags geöffnet.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    },
+    "cache": {
+      "ollama_erklaerung": "Assolutamente! Ecco la spiegazione di \"la farmacia\" per un apprendista italiano, con esempi e traduzione in tedesco:\n\n**Italiano:**\n\n\"La farmacia\" è il luogo dove puoi acquistare farmaci, medicinali, prodotti per la cura della persona e chiedere consigli a un farmacista. Come nell'esempio che conosci già, \"La farmacia di turno è aperta anche domenica\", \"la farmacia\" è femminile, quindi usa gli articoli \"la\", \"le\" al plurale (\"le farmacie\"). È un posto importante per la tua salute e benessere!\n\n**Suggerimento grammaticale:** Ricorda che \"farmacia\" è una parola femminile, quindi concorda con gli aggettivi e gli articoli femminili.\n\n**Secondo esempio pratico:** \"Devo andare alla farmacia per comprare un antidolorifico.\" (Ich muss zur Apotheke gehen, um ein Schmerzmittel zu kaufen.)\n\n---\n\n**Deutsch:**\n\n\"La farmacia\" bedeutet auf Deutsch \"die Apotheke\". Es ist der Ort, wo du Medikamente, Gesundheitsprodukte kaufen und Apotheker um Rat fragen kannst. Wie im bekannten Beispiel (\"Die diensthabende Apotheke ist auch sonntags geöffnet\") ist \"die Apotheke\" ein feminines Substantiv, also verwende \"die\", \"das\" (im Plural \"die\") mit Adjektiven und Artikeln. Es ist ein wichtiger Ort für deine Gesundheit und dein Wohlbefinden!\n\n**Grammatikanmerkung:** Denke daran, dass \"Apotheke\" ein feminines Substantiv ist, daher muss es mit femininen Adjektiven und Artikeln übereinstimmen.\n\n**Zweites Beispiel:** \"Ich muss zur Apotheke gehen, um ein Schmerzmittel zu kaufen.\" (Ich muss zur Apotheke gehen, um ein Schmerzmittel zu kaufen.)\n"
+    }
+  },
+  {
+    "id": "alltag_003",
+    "de": "der Bürgermeister / das Rathaus",
+    "it": "il sindaco / il comune",
+    "kategorie": "Alltag",
+    "beispiel_it": "Devo andare al comune per richiedere il permesso.",
+    "beispiel_de": "Ich muss zum Rathaus, um die Genehmigung zu beantragen.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-18",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    },
+    "cache": {
+      "ollama_erklaerung": "Okay, ecco la spiegazione di \"il sindaco\" e \"il comune\", con esempi e qualche consiglio grammaticale:\n\n**Italiano:**\n\n\"Il sindaco\" è la persona che dirige un comune, un po' come il \"Bürgermeister\" in tedesco.  \"Il comune\" è l'ente amministrativo, l'equivalente del \"Rathaus\". Quindi, quando dici \"Devo andare al comune per richiedere il permesso,\" intendi andare nell'ufficio del comune per fare una pratica. Ricorda che \"comune\" è maschile, quindi usa articoli maschili come \"il\", \"lo\", \"questo\".\n\n**Suggerimento Grammaticale:**  In Toscana, come in altre regioni, si usa spesso il \"tu\" con persone che si incontrano in situazioni informali.\n\n**Secondo esempio pratico:** \"Ho incontrato il sindaco alla festa del paese.\" (Ich habe den Bürgermeister auf dem Dorffest getroffen.)\n\n---\n\n**Deutsch:**\n\n**Italienisch:** \"Il sindaco\" ist die Person, die eine Gemeinde leitet, ähnlich dem \"Bürgermeister\" im Deutschen. \"Il comune\" ist die Verwaltungseinheit, das Äquivalent zum \"Rathaus\".  Wenn du sagst \"Devo andare al comune per richiedere il permesso\", gehst du also ins Rathaus, um eine Genehmigung zu beantragen.  Denk daran, dass \"comune\" maskulin ist, also verwende männliche Artikel wie \"il\", \"lo\", \"questo\".\n\n**Grammatikanmerkung:** In der Toskana, wie auch in anderen Regionen, verwendet man oft das \"du\" mit Personen, die man in informellen Situationen trifft.\n\n**Zweites praktisches Beispiel:** \"Ho incontrato il sindaco alla festa del paese.\" (Ich habe den Bürgermeister auf dem Dorffest getroffen.)\n"
+    }
+  },
+  {
+    "id": "alltag_004",
+    "de": "die Baugenehmigung",
+    "it": "il permesso di costruire / la concessione edilizia",
+    "kategorie": "Bauwesen",
+    "beispiel_it": "Senza permesso di costruire non si può iniziare i lavori.",
+    "beispiel_de": "Ohne Baugenehmigung darf man nicht mit den Arbeiten beginnen.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-18",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "food_001",
+    "de": "die Bäckerei",
+    "it": "il forno / la panetteria",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Il forno apre alle sei di mattina.",
+    "beispiel_de": "Die Bäckerei öffnet um sechs Uhr morgens.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "food_002",
+    "de": "der Markt (Wochenmarkt)",
+    "it": "il mercato",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Il mercato di Lucca si tiene ogni settimana.",
+    "beispiel_de": "Der Wochenmarkt in Lucca findet jede Woche statt.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "food_003",
+    "de": "die Rechnung (Restaurant)",
+    "it": "il conto",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Ci porta il conto, per favore?",
+    "beispiel_de": "Könnten Sie uns die Rechnung bringen, bitte?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    },
+    "cache": {
+      "ollama_erklaerung": "Certamente! Ecco la spiegazione di \"il conto\" per te:\n\n**Italiano:**\n\n\"Il conto\" in italiano significa proprio \"die Rechnung\" in tedesco, soprattutto quando si parla di un ristorante o di un bar. È la somma totale di ciò che hai consumato. La frase \"Ci porta il conto, per favore?\" è perfetta per chiedere al cameriere di portarti il conto. Un piccolo suggerimento grammaticale: \"il conto\" è maschile, quindi usa \"il\" e \"lo\" (es: \"portalo\").\n\n**Esempio pratico:** \"Vorrei vedere il conto, per favore.\" (Ich möchte bitte die Rechnung sehen.)\n\n**Deutsch:**\n\n\"Il conto\" bedeutet auf Italienisch das gleiche wie \"die Rechnung\" im Restaurant oder in der Bar. Es ist der Gesamtbetrag dessen, was Sie konsumiert haben. Der Satz \"Ci porta il conto, per favore?\" ist perfekt, um den Kellner zu bitten, Ihnen die Rechnung zu bringen.  Grammatikanmerkung: \"il conto\" ist männlich, also verwenden Sie \"il\" und \"lo\" (z.B. \"portalo\").\n\n**Praktisches Beispiel:** \"Ich möchte bitte die Rechnung sehen.\" (Vorrei vedere il conto, per favore.)\n"
+    }
+  },
+  {
+    "id": "verb_001",
+    "de": "sein / es gibt",
+    "it": "essere / esserci",
+    "kategorie": "Verben",
+    "beispiel_it": "Sono stanco. C'è un problema con il tetto.",
+    "beispiel_de": "Ich bin müde. Es gibt ein Problem mit dem Dach.",
+    "konjugation": {
+      "presente": [
+        "sono",
+        "sei",
+        "è",
+        "siamo",
+        "siete",
+        "sono"
+      ],
+      "passato_prossimo": [
+        "sono stato",
+        "sei stato",
+        "è stato",
+        "siamo stati",
+        "siete stati",
+        "sono stati"
+      ],
+      "imperfetto": [
+        "ero",
+        "eri",
+        "era",
+        "eravamo",
+        "eravate",
+        "erano"
+      ],
+      "futuro": [
+        "sarò",
+        "sarai",
+        "sarà",
+        "saremo",
+        "sarete",
+        "saranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    },
+    "cache": {
+      "ollama_erklaerung": "Okay, eccoci con la spiegazione di \"essere\" ed \"esserci\"!\n\n**Spiegazione in italiano:**\n\n\"Essere\" è il verbo italiano che corrisponde al tedesco \"sein\" e significa \"to be\". Lo usiamo per descrivere persone, cose e stati d'animo, come nel tuo esempio \"Sono stanco\".  \"Esserci\", invece, è una forma particolare di \"essere\" che indica l'esistenza di qualcosa, come dire \"c'è\" o \"ci sono\".  È importante capire che \"esserci\" si usa quando parliamo di oggetti o situazioni, non di persone.\n\n**Suggerimento grammaticale:** Dopo \"esserci\", usiamo il verbo \"avere\" al 3° persona singolare se intendiamo dire \"c'è bisogno di...\". Esempio: \"C'è bisogno di un muratore.\"\n\n**Secondo esempio pratico (costruzioni):**\n\n*   \"La gru **è** alta.\" (Die Kran **ist** hoch.)\n*   \"**C'è** troppo cemento.\" ( **Es gibt** zu viel Zement.)\n\n---\n\n**Explanation in German:**\n\nOkay, here's the explanation of \"essere\" and \"esserci\"!\n\n\"Essere\" is the Italian verb that corresponds to the German \"sein\" and means \"to be\". We use it to describe people, things, and states of mind, like in your example \"Sono stanco\" (I am tired). \"Esserci,\" on the other hand, is a particular form of \"essere\" that indicates the existence of something, like saying \"c'è\" or \"ci sono\" (there is / there are). It's important to understand that \"esserci\" is used when we talk about objects or situations, not people.\n\n**Grammatical tip:** After \"esserci\", we use the verb \"avere\" in the 3rd person singular if we mean \"there is a need for...\" Example: \"C'è bisogno di un muratore.\" (There is a need for a bricklayer.)\n\n**Second practical example (construction):**\n\n*   \"La gru **è** alta.\" (The crane **is** high.)\n*   \"**C'è** troppo cemento.\" ( **There is** too much cement.)\n",
+      "ollama_konjugation": "⚠️ Ollama nicht erreichbar: timed out"
+    }
+  },
+  {
+    "id": "verb_002",
+    "de": "haben",
+    "it": "avere",
+    "kategorie": "Verben",
+    "beispiel_it": "Ho bisogno di un preventivo. Abbiamo tempo fino a venerdì.",
+    "beispiel_de": "Ich brauche einen Kostenvoranschlag. Wir haben Zeit bis Freitag.",
+    "konjugation": {
+      "presente": [
+        "ho",
+        "hai",
+        "ha",
+        "abbiamo",
+        "avete",
+        "hanno"
+      ],
+      "passato_prossimo": [
+        "ho avuto",
+        "hai avuto",
+        "ha avuto",
+        "abbiamo avuto",
+        "avete avuto",
+        "hanno avuto"
+      ],
+      "imperfetto": [
+        "avevo",
+        "avevi",
+        "aveva",
+        "avevamo",
+        "avevate",
+        "avevano"
+      ],
+      "futuro": [
+        "avrò",
+        "avrai",
+        "avrà",
+        "avremo",
+        "avrete",
+        "avranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    },
+    "cache": {
+      "ollama_konjugation": "Certamente! Ecco la coniugazione del verbo \"avere\" (haben) nei tempi che hai richiesto, con esempi contestualizzati nella costruzione o nella vita in Toscana e le traduzioni in tedesco:\n\n**Verbo: Avere (haben)**\n\n| Tempo Verbale | Io | Tu | Lui/Lei | Noi | Voi | Loro |\n|---|---|---|---|---|---|---|\n| **Presente (Präsens)** | Ho | Hai | Ha | Abbiamo | Avete | Hanno |\n| *Esempio (Toscana)*: Io **ho** una casa colonica vicino a Firenze. (Ich **habe** ein Landhaus in der Nähe von Florenz.) |\n| **Passato Prossimo (Perfekt)** | Ho avuto | Hai avuto | Ha avuto | Abbiamo avuto | Avete avuto | Hanno avuto |\n| *Esempio (Toscana)*: Ieri io **ho avuto** un problema con l'impianto idraulico. (Gestern **hatte** ich ein Problem mit der Sanitäranlage.) |\n| **Imperfetto (Imperfekt)** | Avevo | Avevi | Aveva | Avevamo | Avevate | Avevano |\n| *Esempio (Toscana)*: Quando ero bambino, **avevo** un grande giardino pieno di olivi. (Als Kind **hatte** ich einen großen Garten voller Olivenbäume.) |\n| **Futuro Semplice (Futur I)** | Avrò | Avrai | Avrà | Avremo | Avrete | Avranno |\n| *Esempio (Toscana)*: La prossima settimana io **avrò** finito di ristrutturare il tetto. (Nächste Woche **werde** ich das Dach fertig renoviert **haben**.) |\n\n**Spiegazioni aggiuntive:**\n\n*   **Presente (Präsens):** Esprime un'azione che si svolge nel momento in cui si parla o un'abitudine.\n*   **Passato Prossimo (Perfekt):**  Indica un'azione conclusa nel passato, con un collegamento al presente. Si forma con l'ausiliare \"avere\" (haben) al presente e il participio passato del verbo (avuto).\n*   **Imperfetto (Imperfekt):**  Descrive un'azione continuata nel passato, un'abitudine del passato, o una descrizione di sfondo.\n*   **Futuro Semplice (Futur I):**  Indica un'azione che si svolgerà nel futuro.  Si forma con l'ausiliare \"avere\" (haben) al futuro e il participio passato del verbo (avuto).\n\nSpero che questa spiegazione e la coniugazione ti siano utili! Fammi sapere se hai altre domande.",
+      "ollama_erklaerung": "Assolutamente! Ecco la spiegazione di \"avere\" e un esempio pratico, in italiano e tedesco:\n\n**Spiegazione in italiano:**\n\n\"Avere\" in italiano significa \"haben\" in tedesco. È un verbo molto comune e versatile, usato per indicare possesso, età, sensazioni fisiche o per formare espressioni idiomatiche. Non è sempre direttamente traducibile con \"haben\", perché l'italiano usa \"avere\" in situazioni in cui il tedesco userebbe \"sein\" (essere).  L'uso di \"avere\" può dipendere dal contesto, quindi attenzione!\n\n**Suggerimento grammaticale:**\n\nDopo \"avere\", spesso si usa il participio passato per formare i tempi composti (es. \"Ho avuto\", \"Abbiamo avuto\"). Ricorda che il participio passato concorda in genere e numero con il soggetto quando usato con \"avere\" in alcuni contesti.\n\n**Esempio pratico aggiuntivo:**\n\n*   **Italiano:**  \"Ho sete.\" (Ho bisogno di acqua.)\n*   **Tedesco:** \"Ich habe Durst.\" (Ich brauche Wasser.)\n\nSpero sia chiaro! Se hai altre domande, non esitare a chiedere.\n\n---\n\n**Explanation in German:**\n\n\"Avere\" in Italienisch bedeutet \"haben\" im Deutschen. Es ist ein sehr häufiges und vielseitiges Verb, das verwendet wird, um Besitz, Alter, körperliche Empfindungen oder um idiomatische Ausdrücke zu bilden. Es ist nicht immer direkt mit \"haben\" übersetzbar, da das Italienische \"avere\" in Situationen verwendet, in denen das Deutsche \"sein\" (sein) verwenden würde. Die Verwendung von \"avere\" kann vom Kontext abhängen, also sei vorsichtig!\n\n**Grammatischer Hinweis:**\n\nNach \"avere\" wird oft das Partizip Perfekt verwendet, um zusammengesetzte Zeiten zu bilden (z. B. \"Ho avuto\", \"Abbiamo avuto\"). Bedenke, dass das Partizip Perfekt in Genus und Numerus mit dem Subjekt übereinstimmen muss, wenn es mit \"avere\" in bestimmten Kontexten verwendet wird.\n\n**Zusätzliches praktisches Beispiel:**\n\n*   **Italienisch:** \"Ho sete.\" (Ich brauche Wasser.)\n*   **Deutsch:** \"Ich habe Durst.\" (Ich brauche Wasser.)\n\nI hope that's clear! Feel free to ask if you have any more questions."
+    }
+  },
+  {
+    "id": "verb_003",
+    "de": "machen / tun",
+    "it": "fare",
+    "kategorie": "Verben",
+    "beispiel_it": "Dobbiamo fare i lavori entro agosto.",
+    "beispiel_de": "Wir müssen die Arbeiten bis August erledigen.",
+    "konjugation": {
+      "presente": [
+        "faccio",
+        "fai",
+        "fa",
+        "facciamo",
+        "fate",
+        "fanno"
+      ],
+      "passato_prossimo": [
+        "ho fatto",
+        "hai fatto",
+        "ha fatto",
+        "abbiamo fatto",
+        "avete fatto",
+        "hanno fatto"
+      ],
+      "imperfetto": [
+        "facevo",
+        "facevi",
+        "faceva",
+        "facevamo",
+        "facevate",
+        "facevano"
+      ],
+      "futuro": [
+        "farò",
+        "farai",
+        "farà",
+        "faremo",
+        "farete",
+        "faranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "verb_004",
+    "de": "gehen / fahren",
+    "it": "andare",
+    "kategorie": "Verben",
+    "beispiel_it": "Vado al comune domani mattina.",
+    "beispiel_de": "Ich gehe morgen früh zum Rathaus.",
+    "konjugation": {
+      "presente": [
+        "vado",
+        "vai",
+        "va",
+        "andiamo",
+        "andate",
+        "vanno"
+      ],
+      "passato_prossimo": [
+        "sono andato",
+        "sei andato",
+        "è andato",
+        "siamo andati",
+        "siete andati",
+        "sono andati"
+      ],
+      "imperfetto": [
+        "andavo",
+        "andavi",
+        "andava",
+        "andavamo",
+        "andavate",
+        "andavano"
+      ],
+      "futuro": [
+        "andrò",
+        "andrai",
+        "andrà",
+        "andremo",
+        "andrete",
+        "andranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 1,
+      "letzte_bewertung": 4
+    }
+  },
+  {
+    "id": "verb_005",
+    "de": "kommen",
+    "it": "venire",
+    "kategorie": "Verben",
+    "beispiel_it": "L'idraulico viene martedì pomeriggio.",
+    "beispiel_de": "Der Klempner kommt Dienstagnachmittag.",
+    "konjugation": {
+      "presente": [
+        "vengo",
+        "vieni",
+        "viene",
+        "veniamo",
+        "venite",
+        "vengono"
+      ],
+      "passato_prossimo": [
+        "sono venuto",
+        "sei venuto",
+        "è venuto",
+        "siamo venuti",
+        "siete venuti",
+        "sono venuti"
+      ],
+      "imperfetto": [
+        "venivo",
+        "venivi",
+        "veniva",
+        "venivamo",
+        "venivate",
+        "venivano"
+      ],
+      "futuro": [
+        "verrò",
+        "verrai",
+        "verrà",
+        "verremo",
+        "verrete",
+        "verranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "verb_006",
+    "de": "wollen / möchten",
+    "it": "volere",
+    "kategorie": "Verben",
+    "beispiel_it": "Voglio installare la pompa di calore entro l'inverno.",
+    "beispiel_de": "Ich möchte die Wärmepumpe vor dem Winter installieren.",
+    "konjugation": {
+      "presente": [
+        "voglio",
+        "vuoi",
+        "vuole",
+        "vogliamo",
+        "volete",
+        "vogliono"
+      ],
+      "passato_prossimo": [
+        "ho voluto",
+        "hai voluto",
+        "ha voluto",
+        "abbiamo voluto",
+        "avete voluto",
+        "hanno voluto"
+      ],
+      "imperfetto": [
+        "volevo",
+        "volevi",
+        "voleva",
+        "volevamo",
+        "volevate",
+        "volevano"
+      ],
+      "futuro": [
+        "vorrò",
+        "vorrai",
+        "vorrà",
+        "vorremo",
+        "vorrete",
+        "vorranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "verb_007",
+    "de": "können",
+    "it": "potere",
+    "kategorie": "Verben",
+    "beispiel_it": "Può mandarmi il preventivo per email?",
+    "beispiel_de": "Können Sie mir den Kostenvoranschlag per E-Mail schicken?",
+    "konjugation": {
+      "presente": [
+        "posso",
+        "puoi",
+        "può",
+        "possiamo",
+        "potete",
+        "possono"
+      ],
+      "passato_prossimo": [
+        "ho potuto",
+        "hai potuto",
+        "ha potuto",
+        "abbiamo potuto",
+        "avete potuto",
+        "hanno potuto"
+      ],
+      "imperfetto": [
+        "potevo",
+        "potevi",
+        "poteva",
+        "potevamo",
+        "potevate",
+        "potevano"
+      ],
+      "futuro": [
+        "potrò",
+        "potrai",
+        "potrà",
+        "potremo",
+        "potrete",
+        "potranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "verb_008",
+    "de": "müssen",
+    "it": "dovere",
+    "kategorie": "Verben",
+    "beispiel_it": "Dobbiamo aspettare il permesso di costruire.",
+    "beispiel_de": "Wir müssen auf die Baugenehmigung warten.",
+    "konjugation": {
+      "presente": [
+        "devo",
+        "devi",
+        "deve",
+        "dobbiamo",
+        "dovete",
+        "devono"
+      ],
+      "passato_prossimo": [
+        "ho dovuto",
+        "hai dovuto",
+        "ha dovuto",
+        "abbiamo dovuto",
+        "avete dovuto",
+        "hanno dovuto"
+      ],
+      "imperfetto": [
+        "dovevo",
+        "dovevi",
+        "doveva",
+        "dovevamo",
+        "dovevate",
+        "dovevano"
+      ],
+      "futuro": [
+        "dovrò",
+        "dovrai",
+        "dovrà",
+        "dovremo",
+        "dovrete",
+        "dovranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "verb_009",
+    "de": "wissen",
+    "it": "sapere",
+    "kategorie": "Verben",
+    "beispiel_it": "Sa quando arriva il materiale?",
+    "beispiel_de": "Wissen Sie, wann das Material ankommt?",
+    "konjugation": {
+      "presente": [
+        "so",
+        "sai",
+        "sa",
+        "sappiamo",
+        "sapete",
+        "sanno"
+      ],
+      "passato_prossimo": [
+        "ho saputo",
+        "hai saputo",
+        "ha saputo",
+        "abbiamo saputo",
+        "avete saputo",
+        "hanno saputo"
+      ],
+      "imperfetto": [
+        "sapevo",
+        "sapevi",
+        "sapeva",
+        "sapevamo",
+        "sapevate",
+        "sapevano"
+      ],
+      "futuro": [
+        "saprò",
+        "saprai",
+        "saprà",
+        "sapremo",
+        "saprete",
+        "sapranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "verb_010",
+    "de": "sagen / sprechen",
+    "it": "dire / parlare",
+    "kategorie": "Verben",
+    "beispiel_it": "Ho detto al muratore di aspettare. Parlo un po' di italiano.",
+    "beispiel_de": "Ich habe dem Maurer gesagt zu warten. Ich spreche ein bisschen Italienisch.",
+    "konjugation": {
+      "presente": [
+        "dico",
+        "dici",
+        "dice",
+        "diciamo",
+        "dite",
+        "dicono"
+      ],
+      "passato_prossimo": [
+        "ho detto",
+        "hai detto",
+        "ha detto",
+        "abbiamo detto",
+        "avete detto",
+        "hanno detto"
+      ],
+      "imperfetto": [
+        "dicevo",
+        "dicevi",
+        "diceva",
+        "dicevamo",
+        "dicevate",
+        "dicevano"
+      ],
+      "futuro": [
+        "dirò",
+        "dirai",
+        "dirà",
+        "diremo",
+        "direte",
+        "diranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "verb_011",
+    "de": "brauchen / benötigen",
+    "it": "avere bisogno di / servire",
+    "kategorie": "Verben",
+    "beispiel_it": "Ho bisogno di tre operai. Mi serve un trapano.",
+    "beispiel_de": "Ich brauche drei Arbeiter. Ich benötige einen Bohrer.",
+    "konjugation": {
+      "presente": [
+        "mi serve",
+        "ti serve",
+        "gli/le serve",
+        "ci serve",
+        "vi serve",
+        "gli serve"
+      ],
+      "passato_prossimo": [
+        "mi è servito",
+        "ti è servito",
+        "gli è servito",
+        "ci è servito",
+        "vi è servito",
+        "gli è servito"
+      ],
+      "imperfetto": [
+        "mi serviva",
+        "ti serviva",
+        "gli serviva",
+        "ci serviva",
+        "vi serviva",
+        "gli serviva"
+      ],
+      "futuro": [
+        "mi servirà",
+        "ti servirà",
+        "gli servirà",
+        "ci servirà",
+        "vi servirà",
+        "gli servirà"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "verb_012",
+    "de": "anfangen / beginnen",
+    "it": "iniziare / cominciare",
+    "kategorie": "Verben",
+    "beispiel_it": "Quando iniziate i lavori sul tetto?",
+    "beispiel_de": "Wann beginnen Sie mit den Dacharbeiten?",
+    "konjugation": {
+      "presente": [
+        "inizio",
+        "inizi",
+        "inizia",
+        "iniziamo",
+        "iniziate",
+        "iniziano"
+      ],
+      "passato_prossimo": [
+        "ho iniziato",
+        "hai iniziato",
+        "ha iniziato",
+        "abbiamo iniziato",
+        "avete iniziato",
+        "hanno iniziato"
+      ],
+      "imperfetto": [
+        "iniziavo",
+        "iniziavi",
+        "iniziava",
+        "iniziavamo",
+        "iniziavate",
+        "iniziavano"
+      ],
+      "futuro": [
+        "inizierò",
+        "inizierai",
+        "inizierà",
+        "inizieremo",
+        "inizierete",
+        "inizieranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "verb_013",
+    "de": "beenden / fertigstellen",
+    "it": "finire / terminare",
+    "kategorie": "Verben",
+    "beispiel_it": "Finiamo i lavori entro fine mese.",
+    "beispiel_de": "Wir beenden die Arbeiten bis Ende des Monats.",
+    "konjugation": {
+      "presente": [
+        "finisco",
+        "finisci",
+        "finisce",
+        "finiamo",
+        "finite",
+        "finiscono"
+      ],
+      "passato_prossimo": [
+        "ho finito",
+        "hai finito",
+        "ha finito",
+        "abbiamo finito",
+        "avete finito",
+        "hanno finito"
+      ],
+      "imperfetto": [
+        "finivo",
+        "finivi",
+        "finiva",
+        "finivamo",
+        "finivate",
+        "finivano"
+      ],
+      "futuro": [
+        "finirò",
+        "finirai",
+        "finirà",
+        "finiremo",
+        "finirete",
+        "finiranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "verb_014",
+    "de": "kaufen",
+    "it": "comprare / acquistare",
+    "kategorie": "Verben",
+    "beispiel_it": "Dobbiamo comprare i coppi prima che finiscano.",
+    "beispiel_de": "Wir müssen die Dachziegel kaufen, bevor sie ausverkauft sind.",
+    "konjugation": {
+      "presente": [
+        "compro",
+        "compri",
+        "compra",
+        "compriamo",
+        "comprate",
+        "comprano"
+      ],
+      "passato_prossimo": [
+        "ho comprato",
+        "hai comprato",
+        "ha comprato",
+        "abbiamo comprato",
+        "avete comprato",
+        "hanno comprato"
+      ],
+      "imperfetto": [
+        "compravo",
+        "compravi",
+        "comprava",
+        "compravamo",
+        "compravate",
+        "compravano"
+      ],
+      "futuro": [
+        "comprerò",
+        "comprerai",
+        "comprerà",
+        "compreremo",
+        "comprerete",
+        "compreranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "verb_015",
+    "de": "kosten",
+    "it": "costare",
+    "kategorie": "Verben",
+    "beispiel_it": "Quanto costa installare il riscaldamento a pavimento?",
+    "beispiel_de": "Wie viel kostet es, die Fußbodenheizung zu installieren?",
+    "konjugation": {
+      "presente": [
+        "costo",
+        "costi",
+        "costa",
+        "costiamo",
+        "costate",
+        "costano"
+      ],
+      "passato_prossimo": [
+        "sono costato",
+        "sei costato",
+        "è costato",
+        "siamo costati",
+        "siete costati",
+        "sono costati"
+      ],
+      "imperfetto": [
+        "costavo",
+        "costavi",
+        "costava",
+        "costavamo",
+        "costavate",
+        "costavano"
+      ],
+      "futuro": [
+        "costerò",
+        "costerai",
+        "costerà",
+        "costeremo",
+        "costerete",
+        "costeranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "verb_016",
+    "de": "warten",
+    "it": "aspettare",
+    "kategorie": "Verben",
+    "beispiel_it": "Aspettiamo la risposta del comune.",
+    "beispiel_de": "Wir warten auf die Antwort des Rathauses.",
+    "konjugation": {
+      "presente": [
+        "aspetto",
+        "aspetti",
+        "aspetta",
+        "aspettiamo",
+        "aspettate",
+        "aspettano"
+      ],
+      "passato_prossimo": [
+        "ho aspettato",
+        "hai aspettato",
+        "ha aspettato",
+        "abbiamo aspettato",
+        "avete aspettato",
+        "hanno aspettato"
+      ],
+      "imperfetto": [
+        "aspettavo",
+        "aspettavi",
+        "aspettava",
+        "aspettavamo",
+        "aspettavate",
+        "aspettavano"
+      ],
+      "futuro": [
+        "aspetterò",
+        "aspetterai",
+        "aspetterà",
+        "aspetteremo",
+        "aspetterete",
+        "aspetteranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "verb_017",
+    "de": "anrufen",
+    "it": "chiamare / telefonare",
+    "kategorie": "Verben",
+    "beispiel_it": "Chiamo l'impresa domani mattina.",
+    "beispiel_de": "Ich rufe die Firma morgen früh an.",
+    "konjugation": {
+      "presente": [
+        "chiamo",
+        "chiami",
+        "chiama",
+        "chiamiamo",
+        "chiamate",
+        "chiamano"
+      ],
+      "passato_prossimo": [
+        "ho chiamato",
+        "hai chiamato",
+        "ha chiamato",
+        "abbiamo chiamato",
+        "avete chiamato",
+        "hanno chiamato"
+      ],
+      "imperfetto": [
+        "chiamavo",
+        "chiamavi",
+        "chiamava",
+        "chiamavamo",
+        "chiamavate",
+        "chiamavano"
+      ],
+      "futuro": [
+        "chiamerò",
+        "chiamerai",
+        "chiamerà",
+        "chiameremo",
+        "chiamerete",
+        "chiameranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "verb_018",
+    "de": "schicken / senden",
+    "it": "mandare / inviare",
+    "kategorie": "Verben",
+    "beispiel_it": "Le mando i documenti per email.",
+    "beispiel_de": "Ich schicke Ihnen die Dokumente per E-Mail.",
+    "konjugation": {
+      "presente": [
+        "mando",
+        "mandi",
+        "manda",
+        "mandiamo",
+        "mandate",
+        "mandano"
+      ],
+      "passato_prossimo": [
+        "ho mandato",
+        "hai mandato",
+        "ha mandato",
+        "abbiamo mandato",
+        "avete mandato",
+        "hanno mandato"
+      ],
+      "imperfetto": [
+        "mandavo",
+        "mandavi",
+        "mandava",
+        "mandavamo",
+        "mandavate",
+        "mandavano"
+      ],
+      "futuro": [
+        "manderò",
+        "manderai",
+        "manderà",
+        "manderemo",
+        "manderete",
+        "manderanno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "verb_019",
+    "de": "verstehen",
+    "it": "capire",
+    "kategorie": "Verben",
+    "beispiel_it": "Non ho capito bene. Può ripetere più lentamente?",
+    "beispiel_de": "Ich habe nicht gut verstanden. Können Sie langsamer wiederholen?",
+    "konjugation": {
+      "presente": [
+        "capisco",
+        "capisci",
+        "capisce",
+        "capiamo",
+        "capite",
+        "capiscono"
+      ],
+      "passato_prossimo": [
+        "ho capito",
+        "hai capito",
+        "ha capito",
+        "abbiamo capito",
+        "avete capito",
+        "hanno capito"
+      ],
+      "imperfetto": [
+        "capivo",
+        "capivi",
+        "capiva",
+        "capivamo",
+        "capivate",
+        "capivano"
+      ],
+      "futuro": [
+        "capirò",
+        "capirai",
+        "capirà",
+        "capiremo",
+        "capirete",
+        "capiranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "verb_020",
+    "de": "geben",
+    "it": "dare",
+    "kategorie": "Verben",
+    "beispiel_it": "Mi dà il numero di telefono?",
+    "beispiel_de": "Geben Sie mir Ihre Telefonnummer?",
+    "konjugation": {
+      "presente": [
+        "do",
+        "dai",
+        "dà",
+        "diamo",
+        "date",
+        "danno"
+      ],
+      "passato_prossimo": [
+        "ho dato",
+        "hai dato",
+        "ha dato",
+        "abbiamo dato",
+        "avete dato",
+        "hanno dato"
+      ],
+      "imperfetto": [
+        "davo",
+        "davi",
+        "dava",
+        "davamo",
+        "davate",
+        "davano"
+      ],
+      "futuro": [
+        "darò",
+        "darai",
+        "darà",
+        "daremo",
+        "darete",
+        "daranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 1,
+      "letzte_bewertung": 4
+    }
+  },
+  {
+    "id": "verb_021",
+    "de": "sehen / schauen",
+    "it": "vedere / guardare",
+    "kategorie": "Verben",
+    "beispiel_it": "Venga a vedere il problema sul tetto.",
+    "beispiel_de": "Kommen Sie, um das Problem am Dach anzuschauen.",
+    "konjugation": {
+      "presente": [
+        "vedo",
+        "vedi",
+        "vede",
+        "vediamo",
+        "vedete",
+        "vedono"
+      ],
+      "passato_prossimo": [
+        "ho visto",
+        "hai visto",
+        "ha visto",
+        "abbiamo visto",
+        "avete visto",
+        "hanno visto"
+      ],
+      "imperfetto": [
+        "vedevo",
+        "vedevi",
+        "vedeva",
+        "vedevamo",
+        "vedevate",
+        "vedevano"
+      ],
+      "futuro": [
+        "vedrò",
+        "vedrai",
+        "vedrà",
+        "vedremo",
+        "vedrete",
+        "vedranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "verb_022",
+    "de": "installieren / einbauen",
+    "it": "installare / montare",
+    "kategorie": "Verben",
+    "beispiel_it": "Quando potete installare la caldaia?",
+    "beispiel_de": "Wann können Sie den Kessel einbauen?",
+    "konjugation": {
+      "presente": [
+        "installo",
+        "installi",
+        "installa",
+        "installiamo",
+        "installate",
+        "installano"
+      ],
+      "passato_prossimo": [
+        "ho installato",
+        "hai installato",
+        "ha installato",
+        "abbiamo installato",
+        "avete installato",
+        "hanno installato"
+      ],
+      "imperfetto": [
+        "installavo",
+        "installavi",
+        "installava",
+        "installavamo",
+        "installavate",
+        "installavano"
+      ],
+      "futuro": [
+        "installerò",
+        "installerai",
+        "installerà",
+        "installeremo",
+        "installerete",
+        "installeranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "verb_023",
+    "de": "prüfen / kontrollieren",
+    "it": "controllare / verificare",
+    "kategorie": "Verben",
+    "beispiel_it": "Bisogna controllare le tubature prima di chiudere il muro.",
+    "beispiel_de": "Man muss die Rohre prüfen, bevor man die Wand schließt.",
+    "konjugation": {
+      "presente": [
+        "controllo",
+        "controlli",
+        "controlla",
+        "controlliamo",
+        "controllate",
+        "controllano"
+      ],
+      "passato_prossimo": [
+        "ho controllato",
+        "hai controllato",
+        "ha controllato",
+        "abbiamo controllato",
+        "avete controllato",
+        "hanno controllato"
+      ],
+      "imperfetto": [
+        "controllavo",
+        "controllavi",
+        "controllava",
+        "controllavamo",
+        "controllavate",
+        "controllavano"
+      ],
+      "futuro": [
+        "controllerò",
+        "controllerai",
+        "controllerà",
+        "controlleremo",
+        "controllerete",
+        "controlleranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "verb_024",
+    "de": "bezahlen",
+    "it": "pagare",
+    "kategorie": "Verben",
+    "beispiel_it": "Paghiamo il 30% all'inizio e il resto alla fine.",
+    "beispiel_de": "Wir zahlen 30% am Anfang und den Rest am Ende.",
+    "konjugation": {
+      "presente": [
+        "pago",
+        "paghi",
+        "paga",
+        "paghiamo",
+        "pagate",
+        "pagano"
+      ],
+      "passato_prossimo": [
+        "ho pagato",
+        "hai pagato",
+        "ha pagato",
+        "abbiamo pagato",
+        "avete pagato",
+        "hanno pagato"
+      ],
+      "imperfetto": [
+        "pagavo",
+        "pagavi",
+        "pagava",
+        "pagavamo",
+        "pagavate",
+        "pagavano"
+      ],
+      "futuro": [
+        "pagherò",
+        "pagherai",
+        "pagherà",
+        "pagheremo",
+        "pagherete",
+        "pagheranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "verb_025",
+    "de": "wohnen / leben",
+    "it": "abitare / vivere",
+    "kategorie": "Verben",
+    "beispiel_it": "Abitiamo in Germania ma stiamo ristrutturando a Lucca.",
+    "beispiel_de": "Wir wohnen in Deutschland, renovieren aber in Lucca.",
+    "konjugation": {
+      "presente": [
+        "abito",
+        "abiti",
+        "abita",
+        "abitiamo",
+        "abitate",
+        "abitano"
+      ],
+      "passato_prossimo": [
+        "ho abitato",
+        "hai abitato",
+        "ha abitato",
+        "abbiamo abitato",
+        "avete abitato",
+        "hanno abitato"
+      ],
+      "imperfetto": [
+        "abitavo",
+        "abitavi",
+        "abitava",
+        "abitavamo",
+        "abitavate",
+        "abitavano"
+      ],
+      "futuro": [
+        "abiterò",
+        "abiterai",
+        "abiterà",
+        "abiteremo",
+        "abiterete",
+        "abiteranno"
+      ]
+    },
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "conn_001",
+    "de": "außerdem / darüber hinaus",
+    "it": "inoltre / oltretutto",
+    "kategorie": "Verbindungswörter",
+    "beispiel_it": "Il preventivo è alto. Inoltre, i tempi sono troppo lunghi.",
+    "beispiel_de": "Der Kostenvoranschlag ist hoch. Außerdem sind die Fristen zu lang.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    },
+    "cache": {
+      "ollama_erklaerung": "Certamente! Ecco la spiegazione di \"inoltre/oltrreutto\" in italiano, con traduzione in tedesco, suggerimento grammaticale ed esempio pratico:\n\n**Italiano:**\n\n\"Inoltre\" e \"oltrettuto\" sono congiunzioni che aggiungono informazioni a ciò che è già stato detto. Sono sinonimi e indicano un'aggiunta, un'ulteriore considerazione. Si usano per rendere il discorso più dettagliato e articolato.  Dopo queste congiunzioni, in genere si introduce una frase completa che presenta un nuovo aspetto o un'ulteriore ragione.\n\n*Suggerimento Grammaticale:* Spesso, dopo \"inoltre\" o \"oltretutto\", si usa una virgola per separare la frase principale dalla frase aggiuntiva.\n\n**Esempio Pratico:**\n\n*Già noto:* Il preventivo è alto. Inoltre, i tempi sono troppo lunghi.\n*Nuovo Esempio:* La casa ha bisogno di riparazioni. Inoltre, la posizione è un po' isolata.\n\n**Deutsch:**\n\n\"Inoltre\" und \"oltrreutto\" sind Konjunktionen, die zusätzliche Informationen zu dem hinzufügen, was bereits gesagt wurde. Sie sind Synonyme und bedeuten \"außerdem\" oder \"darüber hinaus\". Sie werden verwendet, um den Vortrag detaillierter und ausführlicher zu gestalten. Nach diesen Konjunktionen wird in der Regel ein vollständiger Satz eingeführt, der einen neuen Aspekt oder einen weiteren Grund darstellt.\n\n*Grammatikanregung:* Nach \"inoltre\" oder \"oltrreutto\" wird oft ein Komma verwendet, um den Hauptsatz vom hinzugefügten Satz zu trennen.\n\n**Neues Beispiel:**\n\n*Bekannt:* Der Kostenvoranschlag ist hoch. Außerdem sind die Fristen zu lang.\n*Neues Beispiel:* Das Haus benötigt Reparaturen. Außerdem ist die Lage etwas abgelegen.\n"
+    }
+  },
+  {
+    "id": "conn_002",
+    "de": "trotzdem / dennoch",
+    "it": "tuttavia / però / nonostante ciò",
+    "kategorie": "Verbindungswörter",
+    "beispiel_it": "Il lavoro è costoso, tuttavia è necessario.",
+    "beispiel_de": "Die Arbeit ist teuer, trotzdem ist sie notwendig.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "conn_003",
+    "de": "oder (alternativ)",
+    "it": "oppure / o",
+    "kategorie": "Verbindungswörter",
+    "beispiel_it": "Possiamo usare i coppi tradizionali oppure le tegole moderne.",
+    "beispiel_de": "Wir können die traditionellen Ziegel oder moderne Dachsteine verwenden.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "conn_004",
+    "de": "also / daher / deshalb",
+    "it": "quindi / dunque / perciò",
+    "kategorie": "Verbindungswörter",
+    "beispiel_it": "Il tetto perde acqua, quindi dobbiamo intervenire subito.",
+    "beispiel_de": "Das Dach hat ein Leck, also müssen wir sofort handeln.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "conn_005",
+    "de": "weil / da",
+    "it": "perché / poiché / dato che",
+    "kategorie": "Verbindungswörter",
+    "beispiel_it": "Aspettiamo perché non abbiamo ancora il permesso.",
+    "beispiel_de": "Wir warten, weil wir die Genehmigung noch nicht haben.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "conn_006",
+    "de": "wenn / falls",
+    "it": "se / qualora",
+    "kategorie": "Verbindungswörter",
+    "beispiel_it": "Se il tempo lo permette, iniziamo lunedì.",
+    "beispiel_de": "Wenn das Wetter es erlaubt, fangen wir Montag an.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "conn_007",
+    "de": "aber / sondern",
+    "it": "ma / però / bensì",
+    "kategorie": "Verbindungswörter",
+    "beispiel_it": "Il muro è solido, ma l'isolamento è insufficiente.",
+    "beispiel_de": "Die Mauer ist solide, aber die Isolierung reicht nicht.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "conn_008",
+    "de": "sowohl ... als auch",
+    "it": "sia ... che / tanto ... quanto",
+    "kategorie": "Verbindungswörter",
+    "beispiel_it": "Dobbiamo sistemare sia il tetto che le pareti.",
+    "beispiel_de": "Wir müssen sowohl das Dach als auch die Wände reparieren.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "conn_009",
+    "de": "weder ... noch",
+    "it": "né ... né",
+    "kategorie": "Verbindungswörter",
+    "beispiel_it": "Non ho né il tempo né i soldi per farlo ora.",
+    "beispiel_de": "Ich habe weder die Zeit noch das Geld dafür jetzt.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    },
+    "cache": {
+      "ollama_erklaerung": "Certo, ecco la spiegazione di \"né...né\" in italiano, con traduzione e un esempio aggiuntivo:\n\n**Spiegazione in italiano:**\n\n\"Né...né\" si usa per negare due elementi contemporaneamente, esprimendo che nessuno dei due è presente o valido. È l'equivalente del tedesco \"weder...noch\".  Dopo \"né\" si usa sempre la preposizione \"di\" quando si riferisce a un sostantivo. La frase \"Non ho né il tempo né i soldi per farlo ora\" significa che non hai né tempo che i soldi per fare quella cosa. È un modo enfatico per dire che non puoi farlo.\n\n**Suggerimento grammaticale:** Ricorda di ripetere la preposizione \"di\" dopo ogni \"né\" quando parli di cose/persone.\n\n**Secondo esempio pratico:**\n\n\"Non voglio né il caffè né il tè, preferisco l'acqua.\" (Ich möchte weder Kaffee noch Tee, ich bevorzuge Wasser.)\n\n---\n\n**Erklärung auf Deutsch:**\n\n**\"Né...né\" Erklärung:**\n\n\"Né...né\" wird verwendet, um zwei Elemente gleichzeitig zu verneinen und auszudrücken, dass keines von beiden vorhanden oder gültig ist. Es ist das Äquivalent des deutschen \"weder...noch\". Nach \"né\" wird immer die Präposition \"di\" verwendet, wenn es sich auf ein Substantiv bezieht. Der Satz \"Non ho né il tempo né i soldi per farlo ora\" bedeutet, dass du weder Zeit noch Geld hast, um diese Sache zu tun. Es ist eine emphatische Art zu sagen, dass du es nicht kannst.\n\n**Grammatischer Hinweis:** Denken Sie daran, die Präposition \"di\" nach jedem \"né\" zu wiederholen, wenn Sie über Dinge/Personen sprechen.\n\n**Zweites praktisches Beispiel:**\n\n\"Non voglio né il caffè né il tè, preferisco l'acqua.\" (Ich möchte weder Kaffee noch Tee, ich bevorzuge Wasser.)\n"
+    }
+  },
+  {
+    "id": "conn_010",
+    "de": "zuerst / erstens",
+    "it": "prima / innanzitutto / in primo luogo",
+    "kategorie": "Verbindungswörter",
+    "beispiel_it": "Innanzitutto dobbiamo aspettare che il cemento si asciughi.",
+    "beispiel_de": "Zuerst müssen wir warten, bis der Beton getrocknet ist.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "conn_011",
+    "de": "dann / danach / anschließend",
+    "it": "poi / dopo / successivamente",
+    "kategorie": "Verbindungswörter",
+    "beispiel_it": "Prima si posano i tubi, poi si cola il massetto.",
+    "beispiel_de": "Zuerst verlegt man die Rohre, dann gießt man den Estrich.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "conn_012",
+    "de": "schließlich / am Ende",
+    "it": "infine / alla fine",
+    "kategorie": "Verbindungswörter",
+    "beispiel_it": "Infine, controlleremo tutto prima di pagare.",
+    "beispiel_de": "Schließlich überprüfen wir alles, bevor wir bezahlen.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "conn_013",
+    "de": "zum Beispiel",
+    "it": "per esempio / ad esempio",
+    "kategorie": "Verbindungswörter",
+    "beispiel_it": "Ci sono vari problemi, per esempio l'umidità nel muro.",
+    "beispiel_de": "Es gibt verschiedene Probleme, zum Beispiel die Feuchtigkeit in der Wand.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "conn_014",
+    "de": "das heißt / nämlich",
+    "it": "cioè / ossia / vale a dire",
+    "kategorie": "Verbindungswörter",
+    "beispiel_it": "Serve un professionista, cioè un ingegnere strutturale.",
+    "beispiel_de": "Es braucht einen Fachmann, das heißt einen Baustatiker.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "conn_015",
+    "de": "stattdessen / andererseits",
+    "it": "invece / al contrario / d'altra parte",
+    "kategorie": "Verbindungswörter",
+    "beispiel_it": "Pensavo costasse poco; invece è carissimo.",
+    "beispiel_de": "Ich dachte, es würde wenig kosten; stattdessen ist es sehr teuer.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "conn_016",
+    "de": "ebenso / genauso",
+    "it": "altrettanto / allo stesso modo / ugualmente",
+    "kategorie": "Verbindungswörter",
+    "beispiel_it": "Il materiale è di qualità; altrettanto importante è la manodopera.",
+    "beispiel_de": "Das Material ist qualitativ; ebenso wichtig ist die Arbeitsleistung.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "conn_017",
+    "de": "obwohl / obgleich",
+    "it": "anche se / sebbene / benché",
+    "kategorie": "Verbindungswörter",
+    "beispiel_it": "Anche se è costoso, è la scelta giusta.",
+    "beispiel_de": "Obwohl es teuer ist, ist es die richtige Entscheidung.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "conn_018",
+    "de": "damit / um ... zu",
+    "it": "affinché / per (+ infinito)",
+    "kategorie": "Verbindungswörter",
+    "beispiel_it": "Chiamo l'impresa per avere un secondo preventivo.",
+    "beispiel_de": "Ich rufe die Firma an, um ein zweites Angebot zu bekommen.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "conn_019",
+    "de": "während / gleichzeitig",
+    "it": "mentre / nel frattempo / allo stesso tempo",
+    "kategorie": "Verbindungswörter",
+    "beispiel_it": "Mentre aspettiamo il permesso, possiamo comprare i materiali.",
+    "beispiel_de": "Während wir auf die Genehmigung warten, können wir Material kaufen.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "conn_020",
+    "de": "zusammenfassend / kurz gesagt",
+    "it": "in sintesi / in breve / insomma",
+    "kategorie": "Verbindungswörter",
+    "beispiel_it": "Insomma, i lavori dureranno almeno tre mesi.",
+    "beispiel_de": "Kurz gesagt: Die Arbeiten werden mindestens drei Monate dauern.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    },
+    "cache": {
+      "ollama_erklaerung": "Okay, ecco la spiegazione e un secondo esempio, in italiano e tedesco:\n\n**Italiano:**\n\n\"In sintesi\", \"in breve\" e \"insomma\" sono espressioni che usiamo per introdurre un riassunto, una conclusione o per concludere un pensiero in modo conciso. Equivale a dire \"in breve\" o \"in conclusione\" in tedesco. Servono per evitare di dilungarsi troppo e rendere il discorso più chiaro. Ricorda che \"insomma\" può anche avere una leggera sfumatura di \"comunque\" o \"alla fine\".\n\n*Suggerimento grammaticale:* Dopo queste espressioni, spesso si usa un punto e virgola (;) o una virgola (,) per separare la frase introduttiva dal resto della frase.\n\n*Secondo esempio:* \"In sintesi, il muratore è molto bravo, ma è un po' lento.\" (zusammenfassend, der Maurer ist sehr gut, aber etwas langsam.)\n\n**Deutsch:**\n\n\"In sintesi\", \"in breve\" und \"insomma\" sind Ausdrücke, die wir verwenden, um eine Zusammenfassung, eine Schlussfolgerung einzuleiten oder einen Gedanken prägnant abzuschließen. Es entspricht ungefähr \"zusammenfassend\" oder \"kurz gesagt\" auf Italienisch. Sie helfen, lange Ausführungen zu vermeiden und die Aussage klarer zu machen. Beachten Sie, dass \"insomma\" auch eine leichte Nuance von \"trotzdem\" oder \"am Ende\" haben kann.\n\n*Grammatikanmerkung:* Nach diesen Ausdrücken verwendet man oft ein Semikolon (;) oder ein Komma (,) um den einleitenden Satz vom Rest des Satzes abzutrennen.\n\n*Zweites Beispiel:* \"In sintesi, der Maurer ist sehr gut, aber etwas langsam.\" (\"In sintesi, der Maurer ist sehr gut, aber etwas langsam.\")\n"
+    }
+  },
+  {
+    "id": "alltag_005",
+    "de": "der Arzt / die Ärztin",
+    "it": "il medico / il dottore / la dottoressa",
+    "kategorie": "Alltag",
+    "beispiel_it": "Ho bisogno di un medico. Dov'è lo studio del dottore?",
+    "beispiel_de": "Ich brauche einen Arzt. Wo ist die Arztpraxis?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "alltag_006",
+    "de": "das Krankenhaus / die Notaufnahme",
+    "it": "l'ospedale / il pronto soccorso",
+    "kategorie": "Alltag",
+    "beispiel_it": "Mi porti al pronto soccorso, per favore.",
+    "beispiel_de": "Bringen Sie mich bitte zur Notaufnahme.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    },
+    "cache": {
+      "ollama_erklaerung": "Certo, ecco una spiegazione in italiano e tedesco:\n\n**Italiano:**\n\n\"L'ospedale\" è l'edificio dove ci sono reparti per curare diverse malattie. \"Il pronto soccorso\" è la parte dell'ospedale dove si curano le emergenze, cioè i casi urgenti. Quando hai bisogno di cure immediate, devi andare al pronto soccorso. È importante sapere dove si trova l'ospedale più vicino al tuo posto di lavoro o dove vivi.\n\n*Suggerimento grammaticale:* Nota che \"l'ospedale\" inizia con una vocale, quindi usiamo l'articolo \"l'\".\n\n**Esempio pratico:**\n\n\"Mi può indicare come arrivare all'ospedale, per favore?\" (Kannst du mir sagen, wie ich ins Krankenhaus komme, bitte?)\n\n**Deutsch:**\n\n\"Das Krankenhaus\" ist das Gebäude, in dem verschiedene Abteilungen zur Behandlung von Krankheiten untergebracht sind. \"Die Notaufnahme\" ist der Teil des Krankenhauses, in dem Notfälle behandelt werden, also dringende Fälle. Wenn du sofortige medizinische Hilfe benötigst, musst du in die Notaufnahme. Es ist wichtig zu wissen, wo sich das nächstgelegene Krankenhaus zu deinem Arbeitsort oder deinem Wohnort befindet.\n\n*Grammatikanmerkung:* Beachte, dass \"das Krankenhaus\" mit einem Vokal beginnt, daher verwenden wir den Artikel \"das\".\n\n**Praktisches Beispiel:**\n\n\"Können Sie mir bitte sagen, wie ich zum Krankenhaus komme?\"\n"
+    }
+  },
+  {
+    "id": "alltag_007",
+    "de": "die Tankstelle",
+    "it": "il distributore / la stazione di servizio",
+    "kategorie": "Alltag",
+    "beispiel_it": "C'è un distributore qui vicino?",
+    "beispiel_de": "Gibt es hier in der Nähe eine Tankstelle?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "alltag_008",
+    "de": "die Bank / der Geldautomat",
+    "it": "la banca / il bancomat",
+    "kategorie": "Alltag",
+    "beispiel_it": "Devo prelevare al bancomat. La banca chiude alle 13.",
+    "beispiel_de": "Ich muss am Geldautomaten abheben. Die Bank schließt um 13 Uhr.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "alltag_009",
+    "de": "die Post",
+    "it": "la posta / l'ufficio postale",
+    "kategorie": "Alltag",
+    "beispiel_it": "Devo spedire un pacco all'ufficio postale.",
+    "beispiel_de": "Ich muss ein Paket bei der Post aufgeben.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "alltag_010",
+    "de": "der Zug / der Bahnhof",
+    "it": "il treno / la stazione",
+    "kategorie": "Alltag",
+    "beispiel_it": "Il treno per Lucca parte alle 9:15 dalla stazione.",
+    "beispiel_de": "Der Zug nach Lucca fährt um 9:15 Uhr vom Bahnhof ab.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "alltag_011",
+    "de": "der Bus / die Bushaltestelle",
+    "it": "l'autobus / la fermata",
+    "kategorie": "Alltag",
+    "beispiel_it": "Dov'è la fermata dell'autobus per il centro?",
+    "beispiel_de": "Wo ist die Bushaltestelle ins Stadtzentrum?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "alltag_012",
+    "de": "das Auto / der Parkplatz",
+    "it": "la macchina / il parcheggio",
+    "kategorie": "Alltag",
+    "beispiel_it": "Dove posso parcheggiare la macchina?",
+    "beispiel_de": "Wo kann ich das Auto parken?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 1,
+      "letzte_bewertung": 4
+    }
+  },
+  {
+    "id": "alltag_013",
+    "de": "das Restaurant / das Café",
+    "it": "il ristorante / il bar",
+    "kategorie": "Alltag",
+    "beispiel_it": "Andiamo a mangiare in quel ristorante. Prendiamo un caffè al bar.",
+    "beispiel_de": "Essen wir in dem Restaurant. Trinken wir einen Kaffee im Café.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "alltag_014",
+    "de": "reservieren / einen Tisch bestellen",
+    "it": "prenotare / riservare un tavolo",
+    "kategorie": "Alltag",
+    "beispiel_it": "Vorrei prenotare un tavolo per quattro persone per stasera.",
+    "beispiel_de": "Ich möchte einen Tisch für vier Personen für heute Abend reservieren.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "alltag_015",
+    "de": "die Öffnungszeiten",
+    "it": "gli orari di apertura",
+    "kategorie": "Alltag",
+    "beispiel_it": "Quali sono gli orari di apertura del comune?",
+    "beispiel_de": "Welche Öffnungszeiten hat das Rathaus?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    },
+    "cache": {
+      "ollama_erklaerung": "Okay, ecco la spiegazione di \"gli orari di apertura\" in italiano, con traduzione in tedesco, suggerimento grammaticale, e un esempio aggiuntivo.\n\n**Italiano:**\n\n\"Gli orari di apertura\" significa letteralmente \"le ore in cui qualcosa è aperto\".  Si riferisce all'orario in cui un negozio, un ufficio, un museo o qualsiasi altro luogo è accessibile al pubblico. È un'espressione molto comune e utile per sapere quando puoi trovare un posto aperto.  Ricorda che \"orari\" è plurale, quindi usa il plurale articolo \"gli\".\n\n**Suggerimento Grammaticale:**  \"Orari\" è un sostantivo maschile plurale.  Se vuoi chiedere \"Quali sono gli orari di apertura?\" (tedesco: \"Was sind die Öffnungszeiten?\"), hai bisogno del plurale.\n\n**Secondo Esempio:**\n\n*   \"Vorrei sapere gli orari di apertura del supermercato.\" (Ich möchte die Öffnungszeiten des Supermarkts wissen.)\n\n---\n\n**Deutsch:**\n\n\"Gli orari di apertura\" bedeutet wörtlich \"die Stunden, in denen etwas geöffnet ist\". Es bezieht sich auf die Uhrzeit, zu der ein Geschäft, ein Büro, ein Museum oder ein anderer Ort für die Öffentlichkeit zugänglich ist. Es ist ein sehr gängiger und nützlicher Ausdruck, um zu wissen, wann Sie einen Ort geöffnet finden können. Denken Sie daran, dass \"orari\" Plural ist, daher verwenden Sie den Pluralartikel \"gli\".\n\n**Grammatischer Hinweis:** \"Orari\" ist ein maskulines Pluralnomen. Wenn Sie \"Quali sono gli orari di apertura?\" (Was sind die Öffnungszeiten?) fragen möchten, benötigen Sie den Plural.\n\n**Zweites Beispiel:**\n\n*   \"Ich möchte die Öffnungszeiten des Supermarkts wissen.\""
+    }
+  },
+  {
+    "id": "alltag_016",
+    "de": "geschlossen / Ruhetag",
+    "it": "chiuso / giorno di riposo / giorno di chiusura",
+    "kategorie": "Alltag",
+    "beispiel_it": "Il negozio è chiuso il lunedì. Oggi è giorno di riposo.",
+    "beispiel_de": "Das Geschäft ist montags geschlossen. Heute ist Ruhetag.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "alltag_017",
+    "de": "der Nachbar / die Nachbarin",
+    "it": "il vicino / la vicina",
+    "kategorie": "Alltag",
+    "beispiel_it": "Il vicino mi ha detto che c'è un buon elettricista in paese.",
+    "beispiel_de": "Der Nachbar hat mir gesagt, dass es im Dorf einen guten Elektriker gibt.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "alltag_018",
+    "de": "der Schlüssel / abschließen",
+    "it": "la chiave / chiudere a chiave",
+    "kategorie": "Alltag",
+    "beispiel_it": "Ho perso le chiavi di casa. Hai chiuso a chiave?",
+    "beispiel_de": "Ich habe den Hausschlüssel verloren. Hast du abgeschlossen?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    },
+    "cache": {
+      "ollama_erklaerung": ""
+    }
+  },
+  {
+    "id": "alltag_019",
+    "de": "der Strom / der Stromausfall",
+    "it": "la corrente / il black-out / il guasto elettrico",
+    "kategorie": "Alltag",
+    "beispiel_it": "C'è stato un black-out stanotte. Manca la corrente.",
+    "beispiel_de": "Heute Nacht gab es einen Stromausfall. Der Strom fehlt.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "alltag_020",
+    "de": "das Wasser / das Warmwasser",
+    "it": "l'acqua / l'acqua calda",
+    "kategorie": "Alltag",
+    "beispiel_it": "Non c'è acqua calda. Il boiler è rotto.",
+    "beispiel_de": "Es gibt kein Warmwasser. Der Boiler ist kaputt.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "alltag_021",
+    "de": "das Internet / das WLAN",
+    "it": "internet / il Wi-Fi",
+    "kategorie": "Alltag",
+    "beispiel_it": "C'è il Wi-Fi qui? Qual è la password?",
+    "beispiel_de": "Gibt es hier WLAN? Was ist das Passwort?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "alltag_022",
+    "de": "der Müll / die Mülltrennung",
+    "it": "la spazzatura / la raccolta differenziata",
+    "kategorie": "Alltag",
+    "beispiel_it": "Quando si porta fuori la spazzatura? Come funziona la raccolta differenziata?",
+    "beispiel_de": "Wann bringt man den Müll raus? Wie funktioniert die Mülltrennung?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "alltag_023",
+    "de": "das Wetter / es regnet / es ist sonnig",
+    "it": "il tempo / piove / c'è il sole",
+    "kategorie": "Alltag",
+    "beispiel_it": "Che tempo fa oggi? Piove molto in autunno a Lucca.",
+    "beispiel_de": "Wie ist das Wetter heute? Im Herbst regnet es viel in Lucca.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "alltag_024",
+    "de": "die Ferien / der Urlaub",
+    "it": "le vacanze / il periodo di ferie",
+    "kategorie": "Alltag",
+    "beispiel_it": "L'impresa è in ferie per tutto agosto.",
+    "beispiel_de": "Die Firma ist den ganzen August im Urlaub.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "alltag_025",
+    "de": "Entschuldigung / es tut mir leid",
+    "it": "scusi / mi dispiace",
+    "kategorie": "Alltag",
+    "beispiel_it": "Scusi, non ho capito bene. Mi dispiace per il ritardo.",
+    "beispiel_de": "Entschuldigung, ich habe nicht gut verstanden. Es tut mir leid für die Verspätung.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    },
+    "cache": {
+      "ollama_erklaerung": "Certamente! Ecco la spiegazione di \"scusi/mi dispiace\" con esempi e suggerimenti, in italiano e tedesco:\n\n**Italiano:**\n\n\"Scusi\" e \"mi dispiace\" sono espressioni molto utili in italiano. \"Scusi\" si usa principalmente per chiedere scusa per un piccolo errore (come nel tuo esempio, \"Scusi, non ho capito bene\") o per attirare l'attenzione in modo formale. \"Mi dispiace\" si usa per esprimere rammarico o dispiacere per qualcosa, come per un ritardo o una brutta notizia.  La scelta tra le due dipende dal contesto e dall'importanza di ciò per cui ci si scusa. **Suggerimento grammaticale:** Dopo \"Mi dispiace\", spesso si usa un complemento di specificazione, tipo \"Mi dispiace *per* il ritardo\".\n\n**Esempio pratico aggiuntivo:**\n\n*   **Scusi, può aiutarmi a trovare l'intonaco?** (Entschuldigung, können Sie mir helfen, den Putz zu finden?)\n*   **Mi dispiace, ho dimenticato gli attrezzi.** (Es tut mir leid, ich habe das Werkzeug vergessen.)\n\n**Deutsch:**\n\n\"Scusi\" und \"mi dispiace\" sind sehr nützliche Ausdrücke im Italienischen. \"Scusi\" wird hauptsächlich verwendet, um sich für kleine Fehler zu entschuldigen (wie in Ihrem Beispiel, \"Scusi, non ho capito bene\") oder um auf formelle Weise Aufmerksamkeit zu erregen. \"Mi dispiace\" wird verwendet, um Bedauern oder Reue auszudrücken, z. B. für eine Verspätung oder schlechte Nachrichten. Die Wahl zwischen den beiden hängt vom Kontext und der Bedeutung dessen ab, für das man sich entschuldigt. **Grammatikanmerkung:** Nach \"Mi dispiace\" verwendet man oft eine präziseren Zusatz, z.B. \"Mi dispiace *per* die Verspätung\".\n\n**Zusätzliches praktisches Beispiel:**\n\n*   **Scusi, können Sie mir helfen, den Putz zu finden?** (Entschuldigung, können Sie mir helfen, den Putz zu finden?)\n*   **Es tut mir leid, ich habe das Werkzeug vergessen.** (Es tut mir leid, ich habe das Werkzeug vergessen.)\n"
+    }
+  },
+  {
+    "id": "alltag_026",
+    "de": "bitte / danke / gern geschehen",
+    "it": "per favore / grazie / prego",
+    "kategorie": "Alltag",
+    "beispiel_it": "Un caffè, per favore. — Grazie! — Prego!",
+    "beispiel_de": "Einen Kaffee bitte. — Danke! — Gern geschehen!",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "alltag_027",
+    "de": "ich verstehe nicht / können Sie wiederholen?",
+    "it": "non capisco / può ripetere?",
+    "kategorie": "Alltag",
+    "beispiel_it": "Non capisco, può ripetere più lentamente per favore?",
+    "beispiel_de": "Ich verstehe nicht, können Sie bitte langsamer wiederholen?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    },
+    "cache": {
+      "ollama_erklaerung": "Okay, eccoci qui!\n\n**Spiegazione in italiano:**\n\n\"Non capisco\" significa che non hai compreso qualcosa. \"Può ripetere?\" è una richiesta gentile per chiedere alla persona di dire di nuovo ciò che ha detto.  È una frase fondamentale per comunicare quando hai bisogno di chiarimenti!  Usarla con \"per favore\" è sempre apprezzato, come hai già fatto nel tuo esempio.  Ricorda che in Toscana, e in generale in Italia, la cortesia è molto importante.\n\n**Suggerimento grammaticale:** \"Può ripetere?\" è la forma di cortesia (Lei). Se ti senti più a tuo agio o parli con persone che conosci bene, potresti dire \"Puoi ripetere?\".\n\n**Secondo esempio pratico:**\n\n* **Situazione:** Chiedi a un commesso informazioni sui materiali da costruzione.\n* **Tu:** \"Non capisco, può ripetere il prezzo di questi mattoni?\" (Ich verstehe nicht, können Sie den Preis dieser Ziegel wiederholen?)\n\n\n\n**Explanation in German:**\n\n\"Non capisco\" bedeutet, dass du etwas nicht verstanden hast. \"Può ripetere?\" ist eine höfliche Bitte, die Person zu bitten, das Gesagte zu wiederholen. Es ist ein grundlegender Satz, um zu kommunizieren, wenn du eine Klarstellung benötigst! Die Verwendung von \"per favore\" ist immer geschätzt, wie du bereits in deinem Beispiel getan hast. Denke daran, dass in der Toskana und im Allgemeinen in Italien Höflichkeit sehr wichtig ist.\n\n**Grammatikalischer Hinweis:** \"Può ripetere?\" ist die höfliche Form (Sie). Wenn du dich wohler fühlst oder mit Leuten sprichst, die du gut kennst, könntest du sagen \"Puoi ripetere?\".\n\n**Zweites praktisches Beispiel:**\n\n* **Situation:** Du fragst einen Verkäufer nach Informationen zu Baumaterialien.\n* **Du:** \"Non capisco, può ripetere il prezzo di questi mattoni?\" (Ich verstehe nicht, können Sie den Preis dieser Ziegel wiederholen?)\n"
+    }
+  },
+  {
+    "id": "alltag_028",
+    "de": "wie viel Uhr ist es? / wann?",
+    "it": "che ore sono? / quando?",
+    "kategorie": "Alltag",
+    "beispiel_it": "Che ore sono? — Sono le tre. Quando arriva il tecnico?",
+    "beispiel_de": "Wie spät ist es? — Es ist drei Uhr. Wann kommt der Techniker?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "alltag_029",
+    "de": "morgen früh / heute Nachmittag / übermorgen",
+    "it": "domani mattina / oggi pomeriggio / dopodomani",
+    "kategorie": "Alltag",
+    "beispiel_it": "Vengo domani mattina alle otto. Ci vediamo dopodomani.",
+    "beispiel_de": "Ich komme morgen früh um acht. Wir sehen uns übermorgen.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "alltag_030",
+    "de": "nächste Woche / letzten Monat / nächstes Jahr",
+    "it": "la settimana prossima / il mese scorso / l'anno prossimo",
+    "kategorie": "Alltag",
+    "beispiel_it": "La settimana prossima iniziamo i lavori. Il mese scorso ho firmato il contratto.",
+    "beispiel_de": "Nächste Woche beginnen wir mit den Arbeiten. Letzten Monat habe ich den Vertrag unterschrieben.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "eink_001",
+    "de": "Haben Sie...? / Gibt es...?",
+    "it": "Ha...? / C'è...? / Avete...?",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Avete pane integrale? C'è qualcosa di più economico?",
+    "beispiel_de": "Haben Sie Vollkornbrot? Gibt es etwas Günstigeres?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "eink_002",
+    "de": "Wie viel kostet das? / Was macht das?",
+    "it": "Quanto costa? / Quant'è?",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Quanto costa questo? Quant'è in tutto?",
+    "beispiel_de": "Wie viel kostet das? Was macht das insgesamt?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "eink_003",
+    "de": "ich hätte gerne / ich möchte",
+    "it": "vorrei / mi dà...",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Vorrei mezzo chilo di pomodori. Mi dà un etto di prosciutto?",
+    "beispiel_de": "Ich hätte gerne ein halbes Kilo Tomaten. Geben Sie mir 100g Schinken?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "eink_004",
+    "de": "das Kilo / das Gramm / ein Stück",
+    "it": "il chilo / il grammo / un pezzo",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Un chilo di mele. Duecento grammi di formaggio. Un pezzo di torta.",
+    "beispiel_de": "Ein Kilo Äpfel. Zweihundert Gramm Käse. Ein Stück Kuchen.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "eink_005",
+    "de": "die Quittung / der Kassenbon",
+    "it": "lo scontrino / la ricevuta",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Posso avere lo scontrino? Ho bisogno della ricevuta per la contabilità.",
+    "beispiel_de": "Kann ich den Kassenbon haben? Ich brauche die Quittung für die Buchhaltung.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "eink_006",
+    "de": "mit Karte zahlen / bar zahlen",
+    "it": "pagare con il bancomat / pagare in contanti",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Posso pagare con il bancomat? Mi dispiace, solo contanti.",
+    "beispiel_de": "Kann ich mit Karte zahlen? Leider nur bar.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    },
+    "cache": {
+      "ollama_erklaerung": "Assolutamente! Ecco una spiegazione e un esempio aggiuntivo, in italiano e tedesco:\n\n**Italiano:**\n\n\"Pagare con il bancomat\" significa usare la carta di credito o di debito per effettuare un pagamento. \"Pagare in contanti\" significa pagare con banconote e monete. La differenza è semplice: una volta usi la carta, l'altra volta il denaro fisico.  A volte, soprattutto in piccoli negozi o mercati, potrebbe essere accettata solo la seconda opzione.\n\n**Suggerimento grammaticale:** Nota che \"pagare\" è un verbo riflessivo: \"mi dispiace *di* accettare solo contanti\" (anche se spesso si omette \"di\" in questo contesto, è corretto).\n\n**Esempio pratico:**\n\n*   **Tu:** \"Posso pagare con il bancomat?\"\n*   **Venditore:** \"Certo, non c'è problema! Oppure, se preferisci, puoi pagare in contanti.\"\n\n**Deutsch:**\n\n\"Mit Karte zahlen\" bedeutet, eine Kredit- oder Debitkarte für eine Zahlung zu verwenden. \"Bar zahlen\" bedeutet, mit Bargeld (Scheinen und Münzen) zu bezahlen. Der Unterschied ist einfach: einmal benutzt du die Karte, einmal das physische Geld. Manchmal, besonders in kleinen Geschäften oder auf Märkten, wird möglicherweise nur die zweite Option akzeptiert.\n\n**Grammatikalische Anmerkung:** Beachten Sie, dass \"zahlen\" ein reflexives Verb ist: \"Es tut mir leid, nur bar zu akzeptieren\" (obwohl das \"zu\" oft in diesem Kontext weggelassen wird, ist es korrekt).\n\n**Praktisches Beispiel:**\n\n*   **Du:** \"Kann ich mit Karte zahlen?\"\n*   **Verkäufer:** \"Ja, kein Problem! Oder, wenn Sie bevorzugen, können Sie bar bezahlen.\"\n\nSpero sia chiaro! Dimmi se hai altre domande."
+    }
+  },
+  {
+    "id": "eink_007",
+    "de": "das Rückgeld / das Wechselgeld",
+    "it": "il resto",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Tenga pure il resto. Ha da cambiare cinquanta euro?",
+    "beispiel_de": "Behalten Sie das Wechselgeld. Können Sie fünfzig Euro wechseln?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "eink_008",
+    "de": "frisch / reif / abgelaufen",
+    "it": "fresco / maturo / scaduto",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "È fresco il pesce? Questi pomodori non sono ancora maturi. Il latte è scaduto.",
+    "beispiel_de": "Ist der Fisch frisch? Diese Tomaten sind noch nicht reif. Die Milch ist abgelaufen.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "eink_009",
+    "de": "das Mindesthaltbarkeitsdatum",
+    "it": "la data di scadenza",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Controllo sempre la data di scadenza.",
+    "beispiel_de": "Ich prüfe immer das Mindesthaltbarkeitsdatum.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "eink_010",
+    "de": "die Kasse / die Warteschlange",
+    "it": "la cassa / la fila / la coda",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "C'è molta fila alla cassa. Faccio la coda.",
+    "beispiel_de": "An der Kasse ist viel Betrieb. Ich stelle mich an.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "eink_011",
+    "de": "die Tüte / der Beutel",
+    "it": "la busta / il sacchetto",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Vuole una busta? No grazie, ho la borsa.",
+    "beispiel_de": "Möchten Sie eine Tüte? Nein danke, ich habe eine Tasche.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "eink_012",
+    "de": "der Rabatt / der Sonderangebot",
+    "it": "lo sconto / l'offerta speciale",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "C'è uno sconto del 20%. Questa è un'offerta speciale.",
+    "beispiel_de": "Es gibt 20% Rabatt. Das ist ein Sonderangebot.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "eink_013",
+    "de": "das Fleisch / das Geflügel",
+    "it": "la carne / il pollo / il pollame",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Vorrei della carne di manzo. Un pollo intero, per favore.",
+    "beispiel_de": "Ich hätte gerne Rindfleisch. Ein ganzes Huhn bitte.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    },
+    "cache": {
+      "ollama_erklaerung": "Certamente! Ecco la spiegazione in italiano e tedesco:\n\n**Italiano:**\n\n\"La carne\" si riferisce alla carne in generale (manzo, maiale, agnello, ecc.). \"Il pollo\" è specifico per il pollo. \"Il pollame\" è un termine più ampio che include pollo, tacchino, anatra, oca e altre volatili commestibili. Quando parli di carne al supermercato o al ristorante, è utile essere specifico.  Per esempio, se vuoi solo pollo, chiedi \"il pollo\". Ricorda, i sostantivi maschili come \"pollo\" prendono l'articolo \"il\".\n\n**Suggerimento Grammaticale:** In italiano, i sostantivi hanno genere (maschile o femminile). L'articolo che usi davanti al sostantivo deve concordare con il genere.\n\n**Secondo Esempio:** \"Vorrei della carne di maiale, per favore.\" (Ich möchte etwas Schweinefleisch, bitte.)\n\n---\n\n**Deutsch:**\n\n\"La carne\" entspricht dem deutschen \"das Fleisch\". \"Il pollo\" bedeutet \"das Hähnchen\" oder einfach \"das Huhn\".  \"Il pollame\" ist ein allgemeinerer Begriff, der \"Geflügel\" entspricht und Hähnchen, Truthahn, Ente, Gans usw. einschließt. Wenn Sie im Supermarkt oder Restaurant über Fleisch sprechen, ist es hilfreich, genau zu sein. Wenn Sie nur Hähnchen möchten, fragen Sie nach \"il pollo\". Denken Sie daran, dass männliche Substantive wie \"pollo\" den Artikel \"il\" verwenden.\n\n**Grammatik-Tipp:** Im Italienischen haben Substantive ein Genus (männlich oder weiblich). Der Artikel, den Sie vor dem Substantiv verwenden, muss mit dem Genus übereinstimmen.\n\n**Zweites Beispiel:** \"Ich möchte etwas Schweinefleisch, bitte.\" (Vorrei della carne di maiale, per favore.)\n"
+    }
+  },
+  {
+    "id": "eink_014",
+    "de": "der Käse / der Aufschnitt",
+    "it": "il formaggio / l'affettato / i salumi",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Vorrei un po' di salumi misti e del pecorino.",
+    "beispiel_de": "Ich hätte gerne gemischten Aufschnitt und Schafskäse.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    },
+    "cache": {
+      "ollama_erklaerung": "Assolutamente! Ecco la spiegazione, prima in italiano poi in tedesco:\n\n**Italiano:**\n\n\"Il formaggio\", \"l'affettato\" e \"i salumi\" sono tutti prodotti alimentari molto importanti nella cucina italiana, soprattutto in Toscana! \"Il formaggio\" si riferisce in generale a qualsiasi tipo di formaggio. \"L'affettato\" indica carne già tagliata a fette, pronta per essere mangiata. \"I salumi\" sono prodotti a base di carne, come prosciutto, salame e mortadella, spesso stagionati e aromatizzati.  Un piccolo consiglio grammaticale: nota che \"formaggio\" e \"affettato\" sono maschili singolari, quindi usano \"il\" e \"l'\".\n\n**Secondo esempio:** \"Vorrei una fetta di prosciutto crudo e del formaggio di capra.\"\n\n---\n\n**Deutsch:**\n\n\"Il formaggio\", \"l'affettato\" und \"i salumi\" sind alle sehr wichtigen Lebensmittel in der italienischen Küche, besonders in der Toskana! \"Il formaggio\" bezieht sich allgemein auf jede Art von Käse. \"L'affettato\" bezeichnet bereits geschnittenes Fleisch, das essfertig ist. \"I salumi\" sind Produkte auf der Basis von Fleisch, wie z.B. Schinken, Salami und Mortadella, oft gereift und aromatisiert. Ein kleiner grammatikalischer Hinweis: Beachte, dass \"formaggio\" und \"affettato\" männlich Singular sind, deshalb verwenden wir \"il\" und \"l'\".\n\n**Zweiter Beispiel:** \"Ich hätte gerne eine Scheibe rohen Schinken und Ziegenkäse.\"\n"
+    }
+  },
+  {
+    "id": "eink_015",
+    "de": "das Gemüse / das Obst",
+    "it": "la verdura / la frutta",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Dove si trova la verdura fresca? Che frutta c'è di stagione?",
+    "beispiel_de": "Wo ist das frische Gemüse? Welches Obst hat gerade Saison?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "eink_016",
+    "de": "das Olivenöl / der Essig",
+    "it": "l'olio d'oliva / l'aceto",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Cerco un buon olio d'oliva extravergine locale.",
+    "beispiel_de": "Ich suche ein gutes lokales natives Olivenöl extra.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "eink_017",
+    "de": "der Wein / der Rotwein / der Weißwein",
+    "it": "il vino / il vino rosso / il vino bianco",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Mi consiglia un vino rosso locale? Un Chianti o un Morellino?",
+    "beispiel_de": "Können Sie mir einen lokalen Rotwein empfehlen? Einen Chianti oder Morellino?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "eink_018",
+    "de": "das Brot / die Brötchen",
+    "it": "il pane / i panini",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Un chilo di pane toscano, per favore. Il pane sciocco è tipico qui.",
+    "beispiel_de": "Ein Kilo toskanisches Brot bitte. Das ungesalzene Brot ist hier typisch.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "eink_019",
+    "de": "die Haushaltsgeräte / der Baumarkt",
+    "it": "gli elettrodomestici / il negozio di ferramenta / il brico",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Devo andare in ferramenta a comprare dei tasselli.",
+    "beispiel_de": "Ich muss in den Baumarkt um Dübel zu kaufen.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "eink_020",
+    "de": "umtauschen / zurückgeben",
+    "it": "cambiare / restituire",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Posso cambiare questo? Non funziona. Vorrei restituirlo.",
+    "beispiel_de": "Kann ich das umtauschen? Es funktioniert nicht. Ich möchte es zurückgeben.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "eink_021",
+    "de": "die Größe / zu groß / zu klein",
+    "it": "la taglia / la misura / troppo grande / troppo piccolo",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Che taglia porta? Questa è troppo grande. Ce l'ha in misura 42?",
+    "beispiel_de": "Welche Größe tragen Sie? Das ist zu groß. Haben Sie das in Größe 42?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "eink_022",
+    "de": "der Elektriker / der Elektroshop",
+    "it": "l'elettricista / il negozio di elettronica",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "C'è un negozio di elettronica in centro? Ho bisogno di un adattatore.",
+    "beispiel_de": "Gibt es ein Elektronikgeschäft im Zentrum? Ich brauche einen Adapter.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "eink_023",
+    "de": "das Rezept / die Zutat",
+    "it": "la ricetta / l'ingrediente",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Quali ingredienti servono per la ribollita? È una ricetta tipica toscana.",
+    "beispiel_de": "Welche Zutaten braucht man für die Ribollita? Das ist ein typisch toskanisches Rezept.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "eink_024",
+    "de": "ohne Gluten / vegetarisch / vegan",
+    "it": "senza glutine / vegetariano / vegano",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Avete piatti vegetariani? C'è qualcosa senza glutine?",
+    "beispiel_de": "Haben Sie vegetarische Gerichte? Gibt es etwas ohne Gluten?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "eink_025",
+    "de": "die Speisekarte / die Tageskarte",
+    "it": "il menù / il menù del giorno",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Posso vedere il menù? C'è un menù del giorno?",
+    "beispiel_de": "Kann ich die Speisekarte sehen? Gibt es ein Tagesmenü?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "eink_026",
+    "de": "der Vorspeise / das Hauptgericht / das Dessert",
+    "it": "l'antipasto / il primo / il secondo / il dolce",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Come antipasto prendo la bruschetta. Come primo voglio la pasta al cinghiale.",
+    "beispiel_de": "Als Vorspeise nehme ich die Bruschetta. Als erstes Gericht möchte ich Wildschweinpasta.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_gli_001",
+    "de": "gli – Pluralartikel (maskulin) vor bestimmten Lauten",
+    "it": "gli (Plural) ↔ lo (Singular) – vor Vokal / s+Kons. / z / gn / ps / x / y",
+    "kategorie": "Grammatik",
+    "beispiel_it": "lo studente → gli studenti | l'amico → gli amici | lo zaino → gli zaini",
+    "beispiel_de": "der Student → die Studenten | der Freund → die Freunde | der Rucksack → die Rucksäcke",
+    "erklaerung": "Gli ist der bestimmte Pluralartikel für maskuline Substantive, die im Singular 'lo' oder 'l'' verwenden – also vor Vokal, s+Konsonant, z, gn, ps, x, y. Alle anderen maskulinen Substantive bilden den Plural mit 'i' (il muratore → i muratori, il tetto → i tetti). Merksatz: lo/gli gehören zusammen, il/i gehören zusammen.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    },
+    "cache": {
+      "ollama_erklaerung": "Assolutamente! Ecco la spiegazione, prima in italiano e poi in tedesco:\n\n**Italiano:**\n\nLa parola \"gli\" (al plurale) e \"lo\" (al singolare) sono articoli determinativi maschili. \"Lo\" si usa davanti a parole che iniziano con vocale (come \"lo zaino\"), mentre \"gli\" si usa davanti a parole che iniziano con consonante (come \"gli studenti\").  Questa regola è un po' complessa perché ci sono eccezioni, ma questa è la regola generale. Un consiglio: osserva attentamente le parole che hai già imparato come \"lo studente\" e \"l'amico\" per capire meglio quando usare l'uno o l'altro.\n\n**Esempio pratico aggiuntivo:**\n\n*   **lo specchio** (lo specchio) → **gli specchi** (gli specchi)\n\n---\n\n**Deutsch:**\n\nDer italienische Artikel \"gli\" (Plural) und \"lo\" (Singular) sind bestimmte männliche Artikel. \"Lo\" wird vor Wörtern verwendet, die mit einem Vokal beginnen (wie \"lo zaino\"), während \"gli\" vor Wörtern verwendet wird, die mit einem Konsonanten beginnen (wie \"gli studenti\"). Diese Regel ist etwas kompliziert, da es Ausnahmen gibt, aber dies ist die allgemeine Regel. Ein Tipp: Achten Sie genau auf Wörter, die Sie bereits gelernt haben, wie \"lo studente\" und \"l'amico\", um besser zu verstehen, wann Sie den einen oder anderen verwenden.\n\n**Zusätzliches praktisches Beispiel:**\n\n*   **lo specchio** (der Spiegel) → **gli specchi** (die Spiegel)\n\nSpero sia chiaro! Se hai altre domande, non esitare a chiedere. (Ich hoffe, das ist klar! Wenn du weitere Fragen hast, zögere nicht zu fragen.)"
+    }
+  },
+  {
+    "id": "gram_gli_001b",
+    "de": "il / lo / l' – maskuline Artikel im Singular",
+    "it": "il + Konsonant | lo + s+Kons./z/gn/ps | l' + Vokal",
+    "kategorie": "Grammatik",
+    "beispiel_it": "il muratore, il tetto | lo studente, lo zaino, lo gnocco | l'amico, l'operaio",
+    "beispiel_de": "der Maurer, das Dach | der Student, der Rucksack, der Gnocco | der Freund, der Arbeiter",
+    "erklaerung": "Drei verschiedene Formen des maskulinen Singularartikels: 'il' vor normalen Konsonanten (il muro, il cane), 'lo' vor s+Konsonant, z, gn, ps, x, y (lo studente, lo zaino), 'l'' vor Vokal (l'amico, l'anno). Im Plural werden daraus: i / gli / gli.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    },
+    "cache": {
+      "ollama_erklaerung": "Assolutamente! Ecco la spiegazione e qualche esempio, in italiano e tedesco:\n\n**Spiegazione in Italiano:**\n\nIn italiano, l'articolo determinativo maschile singolare cambia a seconda della lettera che inizia la parola successiva. Usiamo \"il\" davanti a parole che iniziano con una consonante (es. \"il muratore\"). Usiamo \"lo\" davanti a parole che iniziano con \"s\" accompagnata da consonante, \"z\", \"gn\" o \"ps\" (es. \"lo studente\").  Usiamo \"l'\" davanti a parole che iniziano con una vocale (es. \"l'amico\"). Questa regola serve a rendere la pronuncia più fluida e piacevole.\n\n**Suggerimento Grammaticale:**  Ricorda che \"l'\" si usa anche davanti a parole che iniziano con \"i\" (es. \"l'idraulico\").\n\n**Secondo Esempio Pratico:**\n\n*   **Il** camion (The truck)\n*   **Lo** specchio (The mirror)\n*   **L'**elettricista (The electrician)\n\n\n\n**Erklärung auf Deutsch:**\n\nIn Italienisch ändert sich der bestimmte Artikel für maskuline Substantive im Singular je nach dem Buchstaben, mit dem das folgende Wort beginnt. Wir verwenden \"il\" vor Wörtern, die mit einem Konsonanten beginnen (z.B. \"il muratore\"). Wir verwenden \"lo\" vor Wörtern, die mit \"s\" gefolgt von einem Konsonanten, \"z\", \"gn\" oder \"ps\" beginnen (z.B. \"lo studente\").  Wir verwenden \"l'\" vor Wörtern, die mit einem Vokal beginnen (z.B. \"l'amico\"). Diese Regel dient dazu, die Aussprache flüssiger und angenehmer zu gestalten.\n\n**Grammatikanmerkung:** Merken Sie sich, dass \"l'\" auch vor Wörtern verwendet wird, die mit \"i\" beginnen (z.B. \"l'idraulico\").\n\n**Zweites praktisches Beispiel:**\n\n*   **Il** camion (Der LKW)\n*   **Lo** specchio (Der Spiegel)\n*   **L'**elettricista (Der Elektriker)\n\n\n\nSpero che questa spiegazione sia chiara! Fammi sapere se hai altre domande. (Ich hoffe, diese Erklärung ist klar! Lass mich wissen, wenn du weitere Fragen hast.)"
+    }
+  },
+  {
+    "id": "gram_gli_002",
+    "de": "gli – indirektes Pronomen (ihm / ihnen)",
+    "it": "gli = a lui / a loro (gesprochen) ↔ le = a lei",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Gli mando il preventivo. (a lui) — Le mando un'email. (a lei)",
+    "beispiel_de": "Ich schicke ihm den Kostenvoranschlag. — Ich schicke ihr eine E-Mail. → gli ≠ le!",
+    "erklaerung": "Als indirektes Pronomen bedeutet 'gli' ihm (a lui) und im gesprochenen Italienisch auch ihnen (a loro). 'Le' bedeutet ihr (a lei). Der häufigste Fehler: gli/le verwechseln. Eselsbrücke: gli klingt wie 'gli uomini' (die Männer), le klingt wie 'le donne' (die Frauen). Formal für 'ihnen' wäre 'loro' nach dem Verb: mando loro il preventivo.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    },
+    "cache": {
+      "ollama_erklaerung": "Okay, ecco la spiegazione e gli esempi, prima in italiano e poi in tedesco.\n\n**Spiegazione in italiano:**\n\nLa parola \"gli\" e \"le\" sono pronomi indiretti maschili e femminili singolari, usati come complemento di termine. Pensa a loro come a \"a lui\" o \"a loro\" (maschile) e \"a lei\" (femminile). Sono utili per specificare a chi stai mandando qualcosa, a chi stai parlando, ecc. Il loro utilizzo può essere un po' complicato perché a volte vengono scritti in modo diverso (es. \"gli\" può diventare \"gli\" in alcune situazioni), ma per ora concentriamoci su questo utilizzo.  **Suggerimento grammaticale:** Presta attenzione al genere della persona a cui ti riferisci (maschile o femminile) per scegliere il pronome corretto!\n\n**Esempio pratico aggiuntivo:**\n\n*   \"Gli ho chiesto un consiglio.\" (Ho chiesto un consiglio a lui).\n*   \"Le ho fatto vedere i disegni.\" (Ho fatto vedere i disegni a lei).\n\n---\n\n**Erklärung auf Deutsch:**\n\n\"Gli\" und \"le\" sind indirekte Objektpronomen für maskulinum-singular (ihm / ihnen) und femininum-singular (ihr). Du kannst sie dir wie \"zu ihm\" oder \"zu ihnen\" (männlich) und \"zu ihr\" (weiblich) vorstellen. Sie sind nützlich, um zu präzisieren, an wen du etwas schickst, mit wem du sprichst usw. Die Schreibweise kann manchmal kompliziert sein (z.B. \"gli\" kann zu \"gli\" werden), aber konzentrieren wir uns jetzt auf diese Verwendung. **Grammatikanmerkung:** Achte auf das Geschlecht der Person, auf die du dich beziehst (männlich oder weiblich), um das richtige Pronomen zu wählen!\n\n**Zusätzliches praktisches Beispiel:**\n\n*   \"Gli ho chiesto un consiglio.\" (Ich habe ihm einen Rat gefragt.)\n*   \"Le ho fatto vedere i disegni.\" (Ich habe ihr die Zeichnungen gezeigt.)\n\n\n\nSpero sia chiaro! Fammi sapere se hai altre domande. (Ich hoffe, das ist klar! Lass mich wissen, wenn du weitere Fragen hast.)\n"
+    }
+  },
+  {
+    "id": "gram_gli_003",
+    "de": "glielo / gliele – kombinierte Pronomen",
+    "it": "gli + lo/la/li/le → glielo / gliela / glieli / gliele",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Il preventivo? Glielo mando subito. Le chiavi? Gliele porto domani.",
+    "beispiel_de": "Den Kostenvoranschlag? Ich schicke ihn ihm sofort. Die Schlüssel? Ich bringe sie ihm morgen.",
+    "erklaerung": "Wenn 'gli' (oder 'le') mit einem direkten Pronomen kombiniert wird, verschmelzen sie: gli+lo = glielo, gli+la = gliela, gli+li = glieli, gli+le = gliele. Das gilt sowohl für 'a lui' als auch 'a lei' – die Form ist identisch. Diese kombinierten Pronomen stehen immer VOR dem Verb.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    },
+    "cache": {
+      "ollama_erklaerung": "Assolutamente! Ecco la spiegazione e degli esempi aggiuntivi, sia in italiano che in tedesco:\n\n**Spiegazione in italiano:**\n\n\"Glielo/gliela/glieli/gliele\" sono forme pronominali complesse che uniscono la preposizione \"gli\" (a lui/a loro) a un articolo determinativo (\"lo\", \"la\", \"li\", \"le\"). Si usano quando si riferisce a qualcosa di già menzionato e si vuole evitare di ripetere il sostantivo. In pratica, è come dire \"a lui/a loro lo/la/li/le\" in una sola parola. La forma cambia a seconda del genere e del numero del sostantivo a cui si riferisce.\n\n**Suggerimento grammaticale:** È un costrutto che può sembrare complicato all'inizio, ma con la pratica diventa naturale. Ricorda che \"gli\" è sempre accompagnato dall'articolo determinato.\n\n**Secondo esempio pratico:**\n\n*   \"Il progetto? **Glielo** mostro dopo pranzo.\" (Il progetto? Lo mostro a lui/loro dopo pranzo.)\n\n**Erläuterung auf Deutsch:**\n\n\"Glielo/gliela/glieli/gliele\" sind komplexe Pronomenformen, die die Präposition \"gli\" (zu ihm/zu ihnen) mit einem bestimmten Artikel (\"lo\", \"la\", \"li\", \"le\") verbinden. Sie werden verwendet, wenn man sich auf etwas bezieht, das bereits erwähnt wurde, und die Wiederholung des Substantivs vermeiden möchte. Man kann es sich wie \"an ihn/an sie (das/die/das)\" in einem Wort vorstellen. Die Form ändert sich je nach Genus und Numerus des Bezugssubstantivs.\n\n**Grammatikanmerkung:** Diese Konstruktion kann anfangs kompliziert erscheinen, wird aber mit Übung natürlich. Denken Sie daran, dass \"gli\" immer von einem bestimmten Artikel begleitet wird.\n\n**Zweites praktisches Beispiel:**\n\n*   \"Das Projekt? **Glielo** zeige ich nach dem Mittagessen.\" (Das Projekt? Zeige es ihm/ihnen nach dem Mittagessen.)\n\nSpero sia chiaro! Se hai altre domande, non esitare a chiedere. (Ich hoffe, das ist klar! Wenn Sie weitere Fragen haben, zögern Sie nicht zu fragen.)"
+    }
+  },
+  {
+    "id": "gram_prep_008",
+    "de": "Gleiche Präposition für Ort UND Richtung",
+    "it": "a / in = wo ich bin UND wohin ich gehe (kein Unterschied!)",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Abito a Lucca. → Vado a Lucca. | Vivo in Germania. → Vado in Germania. | Sono in ufficio. → Vado in ufficio.",
+    "beispiel_de": "Ich wohne in Lucca. → Ich gehe nach Lucca. | Ich lebe in Deutschland. → Ich fahre nach Deutschland. | Ich bin im Büro. → Ich gehe ins Büro.",
+    "erklaerung": "Im Deutschen unterscheidet man Ort (Dativ: in der Stadt, in Deutschland) und Richtung (Akkusativ: in die Stadt, nach Deutschland). Im Italienischen gibt es diesen Unterschied nicht – a und in gelten für beides. Das Verb macht klar ob es Ort oder Richtung ist: essere (sein) = Ort, andare/venire (gehen/kommen) = Richtung. Was man für Ortsangaben lernt, gilt automatisch auch für Richtungsangaben.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_prep_001",
+    "de": "'a' für Städte, 'in' für Länder und Regionen",
+    "it": "a + città | in + paese/regione/continente",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Abito a Lucca. Lavoro a Roma. Vivo in Germania. Siamo in Toscana. Vado in Europa.",
+    "beispiel_de": "Ich wohne in Lucca. Ich arbeite in Rom. Ich lebe in Deutschland. Wir sind in der Toskana. Ich fahre nach Europa.",
+    "erklaerung": "'A' verwendet man bei Städten und kleinen Ortschaften: a Lucca, a Roma, a Firenze. 'In' verwendet man bei Ländern, Regionen und Kontinenten: in Italia, in Germania, in Toscana, in Europa. Diese Grundregel gilt sowohl für den Aufenthaltsort (wo?) als auch für die Richtung (wohin?) – anders als im Deutschen wo man 'in' (Ort) und 'nach' (Richtung) unterscheidet.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "gram_prep_002",
+    "de": "Länder mit Artikel brauchen 'nel/nella/negli'",
+    "it": "in + Land (kein Artikel) | nel/nella + Land (mit Artikel)",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Vivo in Italia. Vivo in Germania. — Ma: Vivo negli Stati Uniti. Vivo nel Regno Unito.",
+    "beispiel_de": "Ich lebe in Italien. Ich lebe in Deutschland. — Aber: Ich lebe in den USA. Ich lebe im Vereinigten Königreich.",
+    "erklaerung": "Die meisten Ländernamen brauchen kein 'in' mit Artikel: in Italia, in Francia, in Germania, in Spagna. Ausnahmen sind Länder deren Name im Italienischen einen Artikel trägt: gli Stati Uniti → negli Stati Uniti, il Portogallo → nel Portogallo, il Giappone → in Giappone (beide möglich), il Brasile → in Brasile. Im Zweifel: ohne Artikel ist meistens richtig.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_prep_003",
+    "de": "'in' bei Gebäuden ohne Artikel (Institution)",
+    "it": "in banca / in farmacia / in chiesa / in ufficio / in cantiere",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Vado in banca. Sono in ufficio. Il muratore è in cantiere. Andiamo in farmacia.",
+    "beispiel_de": "Ich gehe zur Bank. Ich bin im Büro. Der Maurer ist auf der Baustelle. Wir gehen zur Apotheke.",
+    "erklaerung": "Bei institutionellen Orten oder Gebäuden steht 'in' ohne Artikel wenn man sie als abstrakte Institution meint: in banca, in farmacia, in chiesa, in ufficio, in cantiere, in centro, in campagna, in città. Der Ort wird nicht als spezifisches Gebäude gesehen, sondern als Tätigkeit/Funktion. Vergleich Deutsch: 'in die Bank gehen' vs 'zu der Bank dort drüben gehen'.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_prep_004",
+    "de": "'al/alla' bei Gebäuden mit Artikel (spezifischer Ort)",
+    "it": "al supermercato / al comune / al bar / alla stazione / alla fermata",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Vado al supermercato. Domani sono al comune. Ci vediamo al bar. Arrivo alla stazione.",
+    "beispiel_de": "Ich gehe in den Supermarkt. Morgen bin ich beim Rathaus. Wir treffen uns im Café. Ich komme am Bahnhof an.",
+    "erklaerung": "Wenn ein Ort mit dem bestimmten Artikel verwendet wird, verschmilzt 'a' mit dem Artikel: a+il = al, a+la = alla, a+i = ai, a+le = alle. Das passiert bei konkreten, spezifischen Orten: al supermercato, al comune, al ristorante, al bar, alla stazione, alla fermata. Faustregel: Hat der Ort im Deutschen 'den/die/das' → al/alla auf Italienisch.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_prep_005",
+    "de": "'in' vs 'al' – der Unterschied im Alltag",
+    "it": "in farmacia (Institution) ↔ alla farmacia (die bestimmte Apotheke)",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Vado in farmacia. (zur Apotheke, irgendeine) — Vado alla farmacia di via Roma. (zu der Apotheke in der Via Roma)",
+    "beispiel_de": "Ich gehe zur Apotheke. (generell) — Ich gehe zu der Apotheke in der Via Roma. (spezifisch)",
+    "erklaerung": "Der Unterschied zwischen 'in farmacia' und 'alla farmacia' ist Präzision: 'in farmacia' meint den Typ des Ortes ohne Spezifikation, 'alla farmacia' meint einen bestimmten konkreten Ort. Im Alltag sind beide oft austauschbar, aber 'in farmacia / in banca / in ufficio' klingt natürlicher wenn man nur sagt wohin man generell geht.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_prep_006",
+    "de": "'in via' für Straßen, 'in piazza' für Plätze",
+    "it": "in via Roma / in piazza / in corso / in vicolo",
+    "kategorie": "Grammatik",
+    "beispiel_it": "L'ufficio è in via Garibaldi. Ci troviamo in piazza. Il bar è in corso Italia.",
+    "beispiel_de": "Das Büro ist in der Via Garibaldi. Wir treffen uns auf dem Platz. Das Café ist im Corso Italia.",
+    "erklaerung": "Bei Straßennamen verwendet man immer 'in' ohne Artikel: in via Roma, in via Garibaldi, in corso Matteotti, in vicolo del Poggio. Auch Plätze: in piazza (generell) oder in Piazza del Campo (Name). Ausnahme: wenn man eine sehr spezifische Adresse mit Hausnummer nennt, bleibt es trotzdem 'in via Roma 14'.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_prep_007",
+    "de": "da / da + Artikel – von wo / beim wem",
+    "it": "da + Person | da + Ort (Herkunft oder Ziel beim Arzt/Friseur)",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Vado dal medico. Sono dal muratore. Vengo da Lucca. Arrivo dalla Germania.",
+    "beispiel_de": "Ich gehe zum Arzt. Ich bin beim Maurer. Ich komme aus Lucca. Ich komme aus Deutschland.",
+    "erklaerung": "'Da' hat zwei wichtige Verwendungen: (1) Herkunft: vengo da Roma, arrivo dalla Germania, sono da Lucca. (2) Bei jemandem / zu jemandem: vado dal medico, sono dal dentista, vado dall'idraulico. Bei Personen (medico, dentista, muratore) immer 'da+Artikel'. Das entspricht dem deutschen 'beim Arzt' oder 'zum Arzt'.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_prepart_001",
+    "de": "Präposition + Artikel verschmelzen immer (Pflicht!)",
+    "it": "a+il=al | di+il=del | da+il=dal | in+il=nel | su+il=sul",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Vado al cantiere. Il tetto del castello. Vengo dal muratore. Il chiodo nel muro. Il foglio sul tavolo.",
+    "beispiel_de": "Ich gehe zur Baustelle. Das Dach des Schlosses. Ich komme vom Maurer. Der Nagel in der Mauer. Das Blatt auf dem Tisch.",
+    "erklaerung": "Im Italienischen verschmelzen die Präpositionen a, di, da, in, su obligatorisch mit dem bestimmten Artikel. Man sagt nie 'a il' oder 'di il' – immer 'al' und 'del'. Die Verschmelzung passiert nur mit dem bestimmten Artikel (il/lo/la/i/gli/le), nicht mit dem unbestimmten (un/una) und nicht wenn gar kein Artikel steht (z.B. in banca, da Roma).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_prepart_002",
+    "de": "al / allo / all' / alla / ai / agli / alle (a + Artikel)",
+    "it": "a+il=al | a+lo=allo | a+l'=all' | a+la=alla | a+i=ai | a+gli=agli | a+le=alle",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Vado al comune, allo sportello, all'ufficio, alla stazione, ai lavori, agli operai, alle riunioni.",
+    "beispiel_de": "Ich gehe zum Rathaus, zum Schalter, zum Büro, zum Bahnhof, zu den Arbeiten, zu den Arbeitern, zu den Besprechungen.",
+    "erklaerung": "Die Präposition 'a' (zu, an, nach) verschmilzt mit allen sieben Artikelformen. Das Muster: a+il=al, a+lo=allo, a+l'=all', a+la=alla, a+i=ai, a+gli=agli, a+le=alle. Welche Form man braucht hängt vom Genus und Anlaut des folgenden Substantivs ab – also vom selben Muster wie bei den Artikeln selbst.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-20",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    },
+    "cache": {
+      "ollama_erklaerung": ""
+    }
+  },
+  {
+    "id": "gram_prepart_003",
+    "de": "del / dello / dell' / della / dei / degli / delle (di + Artikel)",
+    "it": "di+il=del | di+lo=dello | di+l'=dell' | di+la=della | di+i=dei | di+gli=degli | di+le=delle",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Il costo del tetto. Il colore dello stucco. L'altezza dell'edificio. La qualità della pietra. Il peso dei mattoni. Il numero degli operai. La forma delle tegole.",
+    "beispiel_de": "Die Kosten des Dachs. Die Farbe des Putzes. Die Höhe des Gebäudes. Die Qualität des Steins. Das Gewicht der Ziegel. Die Anzahl der Arbeiter. Die Form der Dachziegel.",
+    "erklaerung": "'Di' (von, des/der) ist die Genitiv-Präposition und wird am häufigsten verwendet. di+il=del, di+lo=dello, di+l'=dell', di+la=della, di+i=dei, di+gli=degli, di+le=delle. Im Deutschen entspricht das oft dem Genitivs (-s) oder 'von': il tetto della casa = das Dach des Hauses. 'Dei/degli/delle' bedeutet auch 'einige' (Teilungsartikel): dei problemi = einige Probleme.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_prepart_004",
+    "de": "dal / dallo / dall' / dalla / dai / dagli / dalle (da + Artikel)",
+    "it": "da+il=dal | da+lo=dallo | da+l'=dall' | da+la=dalla | da+i=dai | da+gli=dagli | da+le=dalle",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Vengo dal cantiere. Arrivo dallo studio. Torno dall'impresa. Vengo dalla Germania. Passo dai vicini. Vengo dagli operai. Arrivo dalle riunioni.",
+    "beispiel_de": "Ich komme von der Baustelle. Ich komme aus dem Büro. Ich komme vom Betrieb. Ich komme aus Deutschland. Ich komme von den Nachbarn vorbei. Ich komme von den Arbeitern. Ich komme von den Besprechungen.",
+    "erklaerung": "'Da' bedeutet von/aus/seit/bei und verschmilzt wie die anderen: dal, dallo, dall', dalla, dai, dagli, dalle. Drei wichtige Verwendungen: (1) Herkunft: vengo dal cantiere = ich komme von der Baustelle, (2) bei jemandem: sono dal medico = ich bin beim Arzt, (3) seit: lavoro qui dal 2020 = ich arbeite hier seit 2020.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_prepart_005",
+    "de": "nel / nello / nell' / nella / nei / negli / nelle (in + Artikel)",
+    "it": "in+il=nel | in+lo=nello | in+l'=nell' | in+la=nella | in+i=nei | in+gli=negli | in+le=nelle",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Il chiodo nel muro. L'acqua nello scantinato. Il tubo nell'intercapedine. L'umidità nella parete. I cavi nei tubi. Gli spazi negli angoli. Le perdite nelle giunture.",
+    "beispiel_de": "Der Nagel in der Mauer. Das Wasser im Keller. Das Rohr im Hohlraum. Die Feuchtigkeit in der Wand. Die Kabel in den Rohren. Die Räume in den Ecken. Die Lecks in den Fugen.",
+    "erklaerung": "'In' verschmilzt nur wenn ein bestimmter Artikel folgt: nel, nello, nell', nella, nei, negli, nelle. Ohne Artikel bleibt 'in' allein: in banca, in ufficio, in cantiere, in Italia. Das ist der häufigste Fehler – 'in il' sagen statt 'nel'. Merkhilfe: in+il klingt unangenehm auszusprechen, deshalb wurde es zu 'nel' verschmolzen.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_prepart_006",
+    "de": "sul / sullo / sull' / sulla / sui / sugli / sulle (su + Artikel)",
+    "it": "su+il=sul | su+lo=sullo | su+l'=sull' | su+la=sulla | su+i=sui | su+gli=sugli | su+le=sulle",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Il preventivo è sul tavolo. Il muratore è sullo stesso livello. Il compenso sull'accordo. La tegola sulla sommità. I lavori sui muri. Gli attrezzi sugli scaffali. Le misure sulle piante.",
+    "beispiel_de": "Der Kostenvoranschlag liegt auf dem Tisch. Der Maurer ist auf derselben Ebene. Die Vergütung laut Vereinbarung. Die Dachpfanne auf dem First. Die Arbeiten an den Mauern. Die Werkzeuge auf den Regalen. Die Maße auf den Plänen.",
+    "erklaerung": "'Su' (auf, über, an) verschmilzt zu: sul, sullo, sull', sulla, sui, sugli, sulle. Neben dem räumlichen 'auf' (sul tetto = auf dem Dach) hat 'su' auch übertragene Bedeutungen: un libro sul restauro = ein Buch über die Restaurierung, basato sulla legge = basierend auf dem Gesetz.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_prepart_007",
+    "de": "Wann verschmilzt es NICHT? – con, per, kein Artikel",
+    "it": "con il (nicht: col*) | per il | in banca | da Roma | di lavoro",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Parlo con il muratore. Pago per il materiale. Vado in banca. Vengo da Roma. Parliamo di lavoro.",
+    "beispiel_de": "Ich spreche mit dem Maurer. Ich zahle für das Material. Ich gehe zur Bank. Ich komme aus Rom. Wir reden über Arbeit.",
+    "erklaerung": "Verschmelzung passiert nur bei a/di/da/in/su + bestimmtem Artikel. 'Con' (mit) und 'per' (für/durch) verschmelzen in der modernen Sprache nicht mehr – man sagt 'con il' und 'per il', nicht 'col/pel'. Außerdem: wenn gar kein Artikel steht (in banca, da Roma, di lavoro), gibt es nichts zum Verschmelzen – die Präposition bleibt allein.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_prep_009",
+    "de": "Warum 'al comune' und nicht 'a comune'?",
+    "it": "Eigenname (kein Artikel) vs. Gattungsname (mit Artikel)",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Vado a Lucca. (Eigenname) — Vado al comune. (Gattungsname, bestimmt) — Vado in banca. (Institution, kein Artikel)",
+    "beispiel_de": "Ich gehe nach Lucca. (Eigenname) — Ich gehe zum Rathaus. (Gattungsname) — Ich gehe zur Bank. (Institution)",
+    "erklaerung": "Städte und Länder sind Eigennamen – einzigartig, kein Artikel nötig: a Lucca, a Roma, in Germania. Gebäude wie comune, stazione, ufficio sind Gattungsnamen – es gibt viele davon, man meint aber eine bestimmte. Der bestimmte Artikel signalisiert 'die eine die wir kennen': al comune = zu unserem Rathaus. 'A comune' ohne Artikel klingt für Italiener so falsch wie 'zu Rathaus' auf Deutsch. Ausnahmen: a casa (erstarrte Redewendung, kein Artikel) und in banca/in farmacia (Institution ohne Artikel, weil 'in' hier den Artikel ersetzt).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_prep_011",
+    "de": "tipico di (Herkunft) vs tipico per (Person/Verhalten)",
+    "it": "tipico + di = Zugehörigkeit | tipico + per = charakteristisch für jemanden",
+    "kategorie": "Grammatik",
+    "beispiel_it": "I coppi sono tipici della Toscana. (Herkunft) — È tipico per lui arrivare in ritardo. (Person)",
+    "beispiel_de": "Die Dachziegel sind typisch für die Toskana. — Es ist typisch für ihn, zu spät zu kommen.",
+    "erklaerung": "Faustregel: 'tipico + di' = Herkunft, Zugehörigkeit, Ursprung → immer bei Orten, Regionen, Küchen, Epochen: tipico della Toscana, tipico della cucina italiana, tipico del Medioevo. 'tipico + per' = charakteristisches Verhalten einer Person: è tipico per lui/lei. Auf Deutsch übersetzt man beides mit 'typisch für', aber im Italienischen steckt in 'di' die Idee von Zugehörigkeit (gehört dazu, kommt daher), während 'per' eher Zweck oder Bestimmung ausdrückt. Im Zweifel: bei Orten und Dingen immer 'di'.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_prep_010",
+    "de": "'in centro' (Zone) vs 'al centro' (spezifischer Ort)",
+    "it": "in centro / in campagna / in periferia ↔ al centro commerciale",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Vado in centro. (Innenstadt als Zone) — Il negozio è al centro commerciale. (konkretes Gebäude)",
+    "beispiel_de": "Ich gehe ins Zentrum. — Das Geschäft ist im Einkaufszentrum.",
+    "erklaerung": "'In centro' verwendet man weil 'centro' eine Zone oder einen Bereich beschreibt, nicht einen einzelnen Punkt. Dasselbe Prinzip gilt für: in campagna (auf dem Land), in periferia (am Stadtrand), in banca, in ufficio. 'A' würde einen konkreten Punkt suggerieren – deshalb 'a Roma' (Punkt auf der Karte) aber 'in centro' (Bereich darin). Ausnahme: sobald 'centro' ein konkretes Gebäude meint, kommt der Artikel zurück: al centro commerciale, al centro sportivo.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_zeit_001",
+    "de": "prima di / prima che – bevor / vorher",
+    "it": "prima di + Infinitiv | prima che + Konjunktiv | prima + Uhrzeit",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Controlliamo tutto prima di pagare. Prima che arrivi il muratore, preparo i documenti. Chiama prima delle nove.",
+    "beispiel_de": "Wir prüfen alles bevor wir zahlen. Bevor der Maurer ankommt, bereite ich die Dokumente vor. Ruf vor neun Uhr an.",
+    "erklaerung": "Faustregel: 'prima' = zeitliche Reihenfolge – etwas passiert VOR etwas anderem. Drei Konstruktionen: (1) prima di + Infinitiv wenn beide Sätze dasselbe Subjekt haben: prima di pagare (ich zahle); (2) prima che + Konjunktiv wenn verschiedene Subjekte: prima che arrivi lui; (3) prima di + Uhrzeit/Zeitpunkt: prima delle nove, prima di Natale. Antwort auf die Frage: in welcher Reihenfolge?",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_zeit_002",
+    "de": "entro – bis (spätestens), Deadline",
+    "it": "entro + Zeitpunkt/Frist = spätestens bis, innerhalb von",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Finiamo i lavori entro venerdì. Entro fine mese arriva il materiale. Mando il preventivo entro tre giorni.",
+    "beispiel_de": "Wir beenden die Arbeiten bis Freitag. Das Material kommt bis Ende des Monats. Ich schicke den Kostenvoranschlag innerhalb von drei Tagen.",
+    "erklaerung": "Faustregel: 'entro' = Deadline – etwas muss spätestens zu einem Zeitpunkt erledigt sein. Antwort auf die Frage: bis wann? 'Entro' steht immer vor einem Zeitpunkt (entro venerdì, entro fine mese, entro tre giorni) und impliziert: es kann auch früher sein, aber nicht später. Typisch für Baustelle und Verträge: entro la data stabilita (bis zum vereinbarten Datum).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_zeit_003",
+    "de": "entro vs fino a – Deadline vs Dauer",
+    "it": "entro venerdì (spätestens) ↔ fino a venerdì (durchgehend bis)",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Paghiamo entro venerdì. (Deadline: bis Freitag bezahlt) — Lavoriamo fino a venerdì. (Dauer: wir arbeiten bis Freitag durch)",
+    "beispiel_de": "Wir zahlen bis Freitag. (einmalig, spätestens) — Wir arbeiten bis Freitag. (durchgehend)",
+    "erklaerung": "Faustregel: 'entro' = einmalige Handlung mit Deadline (spätestens bis); 'fino a' = andauernde Handlung oder Zustand bis zu einem Endpunkt. Test: Kann man 'durchgehend' ergänzen? → fino a. Ist es ein einmaliges Ereignis mit Frist? → entro. Beispiel: resto qui fino a venerdì (ich bleibe bis Freitag – Dauer) vs consegno entro venerdì (ich liefere bis Freitag – Deadline).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_zeit_004",
+    "de": "dopo – nach / nachher / danach",
+    "it": "dopo + Substantiv | dopo di + Pronomen | dopo aver + Partizip",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Dopo i lavori controlliamo tutto. Dopo aver firmato, iniziamo. Ci vediamo dopo.",
+    "beispiel_de": "Nach den Arbeiten prüfen wir alles. Nachdem wir unterschrieben haben, fangen wir an. Wir sehen uns danach.",
+    "erklaerung": "Faustregel: 'dopo' = nach, das Gegenteil von 'prima'. Drei Konstruktionen: (1) dopo + Substantiv: dopo i lavori, dopo pranzo; (2) dopo aver/essere + Partizip (wenn gleiches Subjekt): dopo aver firmato = nachdem ich unterschrieben hatte; (3) dopo che + Indikativ (verschiedene Subjekte): dopo che è arrivato il muratore. Als Adverb allein: ci vediamo dopo (wir sehen uns später/danach).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_zeit_005",
+    "de": "durante – während (gleichzeitig)",
+    "it": "durante + Substantiv = während, im Laufe von",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Durante i lavori non si può usare l'acqua. Durante l'estate fa molto caldo a Lucca. Non disturbare durante la riunione.",
+    "beispiel_de": "Während der Arbeiten kann man das Wasser nicht benutzen. Im Sommer ist es sehr heiß in Lucca. Nicht stören während der Besprechung.",
+    "erklaerung": "Faustregel: 'durante' = zwei Dinge passieren gleichzeitig, im selben Zeitraum. Durante steht immer vor einem Substantiv (durante i lavori, durante l'estate, durante la notte) – nie vor einem Verb. Für 'während + Verb' braucht man 'mentre': mentre lavoriamo (während wir arbeiten). Merkhilfe: durante = Dauer (beide Wörter haben dieselbe Wurzel).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_zeit_006",
+    "de": "durante vs mentre – während + Substantiv vs während + Verb",
+    "it": "durante + Substantiv ↔ mentre + Verb (gleichzeitige Handlung)",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Durante i lavori c'è rumore. — Mentre lavorano, non si può telefonare.",
+    "beispiel_de": "Während der Arbeiten gibt es Lärm. — Während sie arbeiten, kann man nicht telefonieren.",
+    "erklaerung": "Faustregel: durante + Substantiv, mentre + Verb. 'Durante i lavori' (Substantiv) – 'mentre lavorano' (Verb). Der Fehler den Deutsche machen: 'durante lavorano' – das ist falsch. Mentre drückt außerdem oft einen Kontrast aus: io lavoro mentre tu dormi (ich arbeite während du schläfst – Kontrast). Durante hat diesen Kontrastcharakter nicht.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_zeit_007",
+    "de": "fino a – bis (Dauer, Endpunkt)",
+    "it": "fino a + Zeitpunkt/Ort = bis zu, durchgehend bis",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Lavoriamo fino alle sei. Il cantiere è aperto fino a venerdì. Aspetto fino alle dieci, poi me ne vado.",
+    "beispiel_de": "Wir arbeiten bis sechs Uhr. Die Baustelle ist bis Freitag offen. Ich warte bis zehn, dann gehe ich.",
+    "erklaerung": "Faustregel: 'fino a' = Endpunkt einer Dauer oder eines Zustands – etwas geht durch bis zu einem Zeitpunkt. Vor Artikeln verschmilzt 'a': fino al mattino, fino alla fine, fino alle sei. Ohne Artikel: fino a venerdì, fino a domani. Auch räumlich: vado fino a Lucca (ich fahre bis Lucca). Unterschied zu 'entro': fino a = Dauer, entro = Deadline für einmalige Handlung.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_zeit_008",
+    "de": "da – seit / ab (Startpunkt)",
+    "it": "da + Zeitpunkt = seit (Vergangenheit bis jetzt) | ab (Zukunft)",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Lavoriamo qui da tre mesi. Il cantiere è aperto da lunedì. Da domani iniziano i lavori.",
+    "beispiel_de": "Wir arbeiten hier seit drei Monaten. Die Baustelle ist seit Montag offen. Ab morgen beginnen die Arbeiten.",
+    "erklaerung": "Faustregel: 'da' = Startpunkt. Zwei Verwendungen: (1) seit (Vergangenheit bis jetzt) → mit Presente oder Imperfetto: lavoro qui da due anni (ich arbeite hier seit zwei Jahren – noch immer). Wichtig: Italienisch benutzt Presente wo Deutsch Perfekt hat! 'Ich arbeite seit zwei Jahren' = lavoro da due anni (nicht: ho lavorato). (2) ab (zukünftiger Startpunkt): da domani, da lunedì prossimo.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_zeit_009",
+    "de": "da ... a – von ... bis (Zeitspanne)",
+    "it": "da + Startpunkt + a + Endpunkt",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Lavoriamo dal lunedì al venerdì. Il cantiere è aperto dalle otto alle diciassette. Da marzo a giugno facciamo i lavori.",
+    "beispiel_de": "Wir arbeiten von Montag bis Freitag. Die Baustelle ist von acht bis siebzehn Uhr geöffnet. Von März bis Juni machen wir die Arbeiten.",
+    "erklaerung": "Faustregel: 'da...a' = von...bis, eine vollständige Zeitspanne mit Start und Ende. Mit Artikeln verschmilzt: dal lunedì al venerdì, dalle otto alle diciassette. Ohne Artikel: da marzo a giugno, da domani a venerdì. Typischer Fehler: 'da lunedì fino a venerdì' – das ist nicht falsch aber redundant, da...a ist einfacher. Bei Uhrzeiten immer mit Artikel: dalle 8 alle 17.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_zeit_010",
+    "de": "tra / fra – in (zukünftiger Zeitabstand)",
+    "it": "tra/fra + Zeitangabe = in ... (ab jetzt)",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Il muratore arriva tra due ore. Finiamo tra una settimana. Ci vediamo fra dieci minuti.",
+    "beispiel_de": "Der Maurer kommt in zwei Stunden. Wir sind in einer Woche fertig. Wir sehen uns in zehn Minuten.",
+    "erklaerung": "Faustregel: 'tra/fra' = in X Zeit ab jetzt (Zukunft). Tra e fra sind vollkommen austauschbar – man wählt das, das sich mit dem folgenden Wort besser ausspricht: tra due giorni oder fra due giorni. Nicht zu verwechseln mit 'in': 'in estate' = im Sommer (Zeitraum), 'tra due settimane' = in zwei Wochen (Abstand ab jetzt). Tra/fra auch räumlich: tra Roma e Firenze (zwischen Rom und Florenz).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_zeit_011",
+    "de": "Übersicht: alle Zeitausdrücke auf einen Blick",
+    "it": "prima / entro / dopo / durante / mentre / fino a / da / tra",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Prima firmiamo, poi iniziamo. Finiamo entro venerdì. Dopo i lavori controlliamo. Durante i lavori c'è rumore. Lavoriamo fino alle sei. Lavoriamo qui da tre mesi. Arriva tra due ore.",
+    "beispiel_de": "Erst unterschreiben, dann anfangen. Bis Freitag fertig. Nach den Arbeiten prüfen. Während der Arbeiten gibt es Lärm. Wir arbeiten bis sechs. Wir arbeiten hier seit drei Monaten. Er kommt in zwei Stunden.",
+    "erklaerung": "Schnellübersicht: prima = bevor (Reihenfolge) | entro = bis spätestens (Deadline) | dopo = nach | durante = während + Substantiv | mentre = während + Verb | fino a = bis (Dauer/Endpunkt) | da = seit/ab (Startpunkt) | da...a = von...bis | tra/fra = in X Zeit (Abstand ab jetzt). Häufigste Verwechslungen: entro vs fino a (Deadline vs Dauer), durante vs mentre (Substantiv vs Verb), da vs tra (seit vs in X Zeit).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_001",
+    "de": "sowieso / jedenfalls / trotzdem",
+    "it": "comunque",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Comunque, ci vediamo domani. Comunque vada, siamo pronti.",
+    "beispiel_de": "Jedenfalls sehen wir uns morgen. Wie auch immer, wir sind bereit.",
+    "erklaerung": "'Comunque' ist sehr vielseitig: (1) jedenfalls/sowieso: comunque vengo (ich komme sowieso); (2) wie auch immer: comunque vada (wie es auch geht); (3) als Gesprächsübergang: comunque... (jedenfalls...). Häufig am Satzanfang um das Thema zu wechseln oder zusammenzufassen.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_002",
+    "de": "Ja bitte / Ja danke",
+    "it": "Sì, grazie",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Vuole un caffè? — Sì, grazie. / No, grazie.",
+    "beispiel_de": "Möchten Sie einen Kaffee? — Ja, bitte. / Nein, danke.",
+    "erklaerung": "Im Italienischen sagt man 'sì, grazie' (ja, danke) wo man auf Deutsch 'ja, bitte' sagt. 'Per favore' / 'per piacere' verwendet man eher bei aktiven Bitten, nicht als Antwort auf ein Angebot.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_003",
+    "de": "Entschuldigung (du) / Entschuldigung (Sie)",
+    "it": "Scusa (tu) / Scusi (Lei)",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Scusa, non ho capito. — Scusi, dov'è la stazione?",
+    "beispiel_de": "Entschuldige, ich habe nicht verstanden. — Entschuldigung, wo ist der Bahnhof?",
+    "erklaerung": "Faustregel: 'scusa' = du (informell, Freunde, Gleichaltrige); 'scusi' = Sie (formell, Fremde, ältere Personen, Geschäfte). Beide kommen vom Verb 'scusare'. Im Zweifel bei Fremden immer 'scusi' – höflicher.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-21",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "phrase_004",
+    "de": "Nichts zu danken / Bitte sehr / Gern geschehen",
+    "it": "Di niente / Prego / Figurati (tu) / Figuriamoci",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Grazie mille! — Prego! / Di niente! / Figurati!",
+    "beispiel_de": "Vielen Dank! — Bitte sehr! / Nichts zu danken! / Aber gern!",
+    "erklaerung": "'Prego' ist die neutrale Standardantwort auf 'grazie'. 'Di niente' = nichts zu danken, etwas lockerer. 'Figurati' (du) / 'figuriamoci' = aber gern, nicht der Rede wert – sehr herzlich und typisch toskanisch. 'Prego' bedeutet auch 'bitte' wenn man jemandem etwas reicht oder vorlässt.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-21",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "phrase_005",
+    "de": "Bitte (höfliche Bitte)",
+    "it": "Per favore / Per cortesia / Per piacere",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Un caffè, per favore. Potrebbe ripetere, per cortesia? Aiutami, per piacere.",
+    "beispiel_de": "Einen Kaffee bitte. Könnten Sie wiederholen, bitte? Hilf mir bitte.",
+    "erklaerung": "Alle drei bedeuten 'bitte' und sind austauschbar. 'Per favore' ist am häufigsten und universell. 'Per cortesia' klingt etwas formeller, gut in Geschäften und mit Fremden. 'Per piacere' ist etwas wärmer und persönlicher. Alle stehen meist am Ende des Satzes.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-21",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "phrase_006",
+    "de": "Ich hätte gerne einen Caffè macchiato",
+    "it": "Vorrei un caffè macchiato, per favore.",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Vorrei un caffè macchiato. / Prendo un caffè macchiato, grazie.",
+    "beispiel_de": "Ich hätte gerne einen Caffè macchiato. / Ich nehme einen Caffè macchiato, danke.",
+    "erklaerung": "'Vorrei' (ich würde gerne) ist die höflichste Form zum Bestellen – Konjunktiv von volere. 'Prendo' (ich nehme) ist etwas direkter aber trotzdem völlig normal. Am Bar-Tresen sagt man oft einfach 'un caffè, grazie' ohne Vorrei. Caffè macchiato = Espresso mit einem Schuss Milch.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_007",
+    "de": "Könntest du mir das Salz reichen? (du/Sie)",
+    "it": "Potresti passarmi il sale? (tu) / Potrebbe passarmi il sale? (Lei)",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Potresti passarmi il sale, per favore? Potrebbe passarmi il pane?",
+    "beispiel_de": "Könntest du mir das Salz reichen? / Könnten Sie mir das Brot reichen?",
+    "erklaerung": "'Potresti' (du) / 'Potrebbe' (Sie) = Konjunktiv von potere – die höfliche Art etwas zu bitten. Direkter wäre 'passami il sale' (reich mir das Salz) – nur bei engen Freunden. Die Konstruktion potresti/potrebbe + Infinitiv ist die universelle höfliche Bitte auf Italienisch.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-21",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "phrase_008",
+    "de": "Würdest du mir den Gefallen tun... / Könnten Sie mir den Gefallen tun...",
+    "it": "Mi faresti il piacere di...? (tu) / Mi farebbe il piacere di...? (Lei)",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Mi faresti il piacere di aspettare un momento? Mi farebbe il piacere di richiamare più tardi?",
+    "beispiel_de": "Würdest du mir den Gefallen tun zu warten? Würden Sie mir den Gefallen tun, später zurückzurufen?",
+    "erklaerung": "Eine besonders höfliche und herzliche Bitte – etwas formeller als potresti/potrebbe. Wörtlich: 'Würdest du mir das Vergnügen machen zu...?' Typisch toskanisch-herzlich. Immer gefolgt von di + Infinitiv.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_009",
+    "de": "Weißt du zufällig... / Wissen Sie zufällig...",
+    "it": "Sai per caso...? (tu) / Sa per caso...? (Lei)",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Sai per caso dov'è il comune? Sa per caso che ore sono?",
+    "beispiel_de": "Weißt du zufällig wo das Rathaus ist? Wissen Sie zufällig wie spät es ist?",
+    "erklaerung": "'Per caso' = zufällig, macht die Frage höflicher und weniger direkt – als ob man nicht erwartet dass die Person es weiß. 'Sai' = du weißt (informell), 'sa' = Sie wissen (formell). Diese Konstruktion ist sehr typisch im gesprochenen Italienisch.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_010",
+    "de": "Darf ich? / Gestatten Sie? (beim Eintreten)",
+    "it": "Permesso?",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Permesso? (an der Tür) — Prego, entri! (Bitte, kommen Sie herein!)",
+    "beispiel_de": "Darf ich eintreten? — Bitte, kommen Sie herein!",
+    "erklaerung": "'Permesso' sagt man wenn man ein fremdes Haus oder Büro betritt – man klopft und sagt 'permesso?' bevor man eintritt. Die Antwort ist 'prego' oder 'avanti'. Auch in Menschenmengen wenn man sich vorbeizwängen möchte: 'permesso, permesso' (Entschuldigung, Platz bitte). Typisch italienische Höflichkeit.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_011",
+    "de": "Es tut mir leid / Das tut mir leid",
+    "it": "Mi dispiace",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Mi dispiace, non posso venire. Mi dispiace molto per il ritardo.",
+    "beispiel_de": "Es tut mir leid, ich kann nicht kommen. Es tut mir sehr leid wegen der Verspätung.",
+    "erklaerung": "'Mi dispiace' = es missfällt mir → es tut mir leid. Für Entschuldigungen: 'scusa/scusi' (Entschuldigung). Für Bedauern: 'mi dispiace'. Der Unterschied: scusa = ich bitte um Entschuldigung (ich bin schuld), mi dispiace = ich bedauere (muss nicht meine Schuld sein, z.B. Mitgefühl: mi dispiace per tuo padre).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-21",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "phrase_012",
+    "de": "Stehst du in der Schlange? / Stehen Sie in der Schlange?",
+    "it": "Sei in fila? (tu) / È in fila? (Lei)",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Scusi, è in fila? — Sì, sto aspettando. / No, prego.",
+    "beispiel_de": "Entschuldigung, stehen Sie in der Schlange? — Ja, ich warte. / Nein, bitte.",
+    "erklaerung": "'Fila' = Schlange/Reihe. 'Essere in fila' = in der Schlange stehen. Man kann auch sagen: 'c'è la fila?' (gibt es eine Schlange?), 'fare la fila' (Schlange stehen/anstellen). In Italien ist das Schlangestehen manchmal etwas chaotisch – diese Frage ist sehr praktisch.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_013",
+    "de": "Herzlichen Glückwunsch! / Kompliment!",
+    "it": "Complimenti! / Congratulazioni!",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Complimenti per il tuo lavoro! Congratulazioni per la casa!",
+    "beispiel_de": "Kompliment für deine Arbeit! Herzlichen Glückwunsch zum Haus!",
+    "erklaerung": "'Complimenti' = Kompliment/Lob für etwas Geleistetes (Arbeit, Können). 'Congratulazioni' = Glückwunsch zu einem Ereignis (Hochzeit, Hauskauf, Geburt). Im Alltag verwendet man oft beide austauschbar. 'Bravo/brava!' ist informeller und spontaner bei einer guten Leistung.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_014",
+    "de": "Entschuldigung, darf ich eine Frage stellen?",
+    "it": "Mi scusi, posso fare una domanda?",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Mi scusi, posso fare una domanda? — Certo, prego!",
+    "beispiel_de": "Entschuldigung, darf ich eine Frage stellen? — Natürlich, bitte!",
+    "erklaerung": "Eine sehr höfliche Eröffnung für ein Gespräch mit Fremden. 'Mi scusi' (formell) + 'posso fare una domanda?' ist die Standardformel. Etwas direkter: 'una domanda, per favore'. In Geschäften oder bei Behörden immer die formelle Version mit 'mi scusi' verwenden.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_015",
+    "de": "Wie komme ich ins Zentrum?",
+    "it": "Come arrivo in centro? / Come si arriva in centro?",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Scusi, come arrivo in centro? Come si arriva alla stazione?",
+    "beispiel_de": "Entschuldigung, wie komme ich ins Zentrum? Wie kommt man zum Bahnhof?",
+    "erklaerung": "'Come arrivo?' = wie komme ich (ich persönlich)? 'Come si arriva?' = wie kommt man (unpersönlich, höflicher). Beide sind korrekt. Antworten: sempre dritto (immer geradeaus), giri a destra/sinistra (biegen Sie rechts/links ab), è a due minuti a piedi (es ist zwei Minuten zu Fuß).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_016",
+    "de": "Wo befindet sich der Bahnhof?",
+    "it": "Dove si trova la stazione? / Dov'è la stazione?",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Scusi, dove si trova la stazione? Dov'è il comune, per favore?",
+    "beispiel_de": "Entschuldigung, wo befindet sich der Bahnhof? Wo ist das Rathaus bitte?",
+    "erklaerung": "'Dove si trova?' = wo befindet sich? (etwas formeller, unpersönlich). 'Dov'è?' = wo ist? (direkter, kürzer, auch völlig korrekt). Beide sind im Alltag gebräuchlich. 'Dov'è' ist die Kurzform von 'dove è' mit Elision.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_017",
+    "de": "Muss ich rechts oder links abbiegen?",
+    "it": "Devo girare a destra o a sinistra?",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Devo girare a destra o a sinistra? — Giri a destra, poi sempre dritto.",
+    "beispiel_de": "Muss ich rechts oder links abbiegen? — Biegen Sie rechts ab, dann immer geradeaus.",
+    "erklaerung": "Wichtige Wegbeschreibungswörter: a destra (rechts), a sinistra (links), sempre dritto (immer geradeaus), al semaforo (an der Ampel), all'incrocio (an der Kreuzung), dopo la chiesa (nach der Kirche). 'Girare' = abbiegen/drehen. 'Giri' ist die formelle Befehlsform (Sie).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-21",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "phrase_018",
+    "de": "Ist es nah oder weit?",
+    "it": "È vicino o lontano?",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "È vicino o lontano? — È a cinque minuti a piedi. / È abbastanza lontano, prenda l'autobus.",
+    "beispiel_de": "Ist es nah oder weit? — Es ist fünf Minuten zu Fuß. / Es ist ziemlich weit, nehmen Sie den Bus.",
+    "erklaerung": "'Vicino' = nah, 'lontano' = weit. Auch als Präposition: vicino a (in der Nähe von): vicino alla stazione. Nützliche Antworten: è a due passi (es ist gleich um die Ecke, wörtlich: zwei Schritte), è a dieci minuti a piedi (zehn Minuten zu Fuß), è lì dietro l'angolo (gleich um die Ecke).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-21",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "phrase_019",
+    "de": "Kann ich die Speisekarte sehen?",
+    "it": "Posso vedere il menù? / Ci porta il menù, per favore?",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Posso vedere il menù? — Certo, eccolo! Ci porta anche la lista dei vini?",
+    "beispiel_de": "Kann ich die Speisekarte sehen? — Natürlich, hier ist sie! Bringen Sie uns auch die Weinkarte?",
+    "erklaerung": "'Posso vedere' = kann ich sehen (ich bitte). 'Ci porta' = bringen Sie uns (direkter an den Kellner). Beide sind korrekt. 'Eccolo/eccola' = hier ist er/sie (typische Antwort des Kellners). Weinkarte = lista dei vini / carta dei vini.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_020",
+    "de": "Ich nehme einen Espresso an der Theke",
+    "it": "Prendo un caffè al banco, grazie.",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Prendo un caffè al banco. — Subito! Fa anche uno scontrino?",
+    "beispiel_de": "Ich nehme einen Espresso an der Theke. — Sofort! Möchten Sie auch einen Kassenbon?",
+    "erklaerung": "In Italien ist Kaffee an der Theke (al banco) billiger als am Tisch (al tavolo) – oft die Hälfte. 'Al banco' = an der Theke, typisch für den schnellen Espresso im Stehen. In manchen Bars muss man zuerst bezahlen und dann den Bon (scontrino) dem Barista geben. Prendo = ich nehme, natürlichere Bestellform als 'vorrei' im Bar-Kontext.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_021",
+    "de": "Kann ich ein Glas Wasser haben?",
+    "it": "Posso avere un bicchiere d'acqua, per favore?",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Posso avere un bicchiere d'acqua? Naturale o frizzante? — Naturale, grazie.",
+    "beispiel_de": "Kann ich ein Glas Wasser haben? Still oder sprudelnd? — Still, danke.",
+    "erklaerung": "In Restaurants wird immer nach 'naturale' (still) oder 'frizzante' (sprudelnd) gefragt. Leitungswasser ist in Italien Restaurants nicht üblich – man bestellt immer eine Flasche. 'Acqua del rubinetto' = Leitungswasser, kann man fragen aber wird nicht immer angeboten.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_022",
+    "de": "Zum Mitnehmen bitte",
+    "it": "Da portare via, per favore. / Da asporto.",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Un cornetto da portare via, per favore. Questo è da asporto.",
+    "beispiel_de": "Ein Croissant zum Mitnehmen bitte. Das ist zum Mitnehmen.",
+    "erklaerung": "'Da portare via' = zum Mitnehmen, wörtlich: zum Wegtragen. 'Da asporto' = Außer-Haus-Verkauf, etwas formeller. Beide sind korrekt und verständlich. Seit der Pandemie ist 'asporto' auch als Begriff bekannter geworden.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_023",
+    "de": "Haben Sie einen freien Tisch?",
+    "it": "Avete un tavolo libero? / C'è posto per due?",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Avete un tavolo libero per due persone? C'è posto per stasera alle otto?",
+    "beispiel_de": "Haben Sie einen freien Tisch für zwei Personen? Haben Sie Platz für heute Abend um acht?",
+    "erklaerung": "'Tavolo libero' = freier Tisch. 'C'è posto' = gibt es Platz (informeller). Wenn man reservieren will: 'vorrei prenotare un tavolo per due persone per stasera'. Wenn voll: 'mi dispiace, siamo al completo' (wir sind ausgebucht).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-21",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "phrase_024",
+    "de": "Was empfehlen Sie mir?",
+    "it": "Che cosa mi consiglia? / Cosa mi raccomanda?",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Che cosa mi consiglia oggi? — Le consiglio la bistecca alla fiorentina, è ottima.",
+    "beispiel_de": "Was empfehlen Sie mir heute? — Ich empfehle Ihnen das Florentiner Steak, es ist ausgezeichnet.",
+    "erklaerung": "'Consigliare' = empfehlen. 'Mi consiglia' = formell (Sie empfehlen mir). In Restaurants öffnet diese Frage oft ein Gespräch über lokale Spezialitäten – sehr empfehlenswert in der Toskana! 'Il piatto del giorno' = Tagesgericht, oft die beste Wahl.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-21",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "phrase_025",
+    "de": "Haben Sie etwas Vegetarisches?",
+    "it": "Avete qualcosa di vegetariano? / C'è qualcosa senza carne?",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Avete qualcosa di vegetariano? Sono vegetariano/vegetariana.",
+    "beispiel_de": "Haben Sie etwas Vegetarisches? Ich bin Vegetarier/Vegetarierin.",
+    "erklaerung": "'Qualcosa di + Adjektiv' = etwas + Adjektiv: qualcosa di buono (etwas Gutes), qualcosa di leggero (etwas Leichtes). Die Konstruktion mit 'di' vor dem Adjektiv ist fest. Vegetariano/a = vegetarisch (passt sich dem Genus an). Vegano/a = vegan. Senza glutine = glutenfrei.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_026",
+    "de": "Können wir bestellen?",
+    "it": "Possiamo ordinare? / Siamo pronti per ordinare.",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Possiamo ordinare? — Certo, cosa prendete? Siamo pronti.",
+    "beispiel_de": "Können wir bestellen? — Natürlich, was nehmen Sie? Wir sind bereit.",
+    "erklaerung": "'Possiamo' = können wir (1. Person Plural von potere). 'Ordinare' = bestellen. Alternativ um den Kellner zu rufen: 'scusi!' (Entschuldigung!) oder eine leichte Handbewegung – in Italien ruft man den Kellner nicht mit 'cameriere!' da das unhöflich klingt.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_027",
+    "de": "Die Rechnung bitte",
+    "it": "Il conto, per favore. / Ci porta il conto?",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Il conto, per favore. — Tutto insieme o separato? — Tutto insieme, grazie.",
+    "beispiel_de": "Die Rechnung bitte. — Alles zusammen oder getrennt? — Alles zusammen, danke.",
+    "erklaerung": "In Italien kommt die Rechnung nicht automatisch – man muss sie immer verlangen. 'Il conto' = die Rechnung (Restaurant). 'La ricevuta/lo scontrino' = Kassenbon (Geschäft). Trinkgeld (mancia) ist in Italien nicht obligatorisch aber willkommen: 5-10% oder einfach aufrunden.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_028",
+    "de": "Ich schaue nur / Ich schaue mich nur um",
+    "it": "Sto solo guardando, grazie.",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Posso aiutarla? — Sto solo guardando, grazie.",
+    "beispiel_de": "Kann ich Ihnen helfen? — Ich schaue nur, danke.",
+    "erklaerung": "'Sto guardando' = ich schaue gerade (Gerundium, laufende Handlung). 'Solo' = nur. Diese Antwort ist die Standardreaktion wenn man in einem Geschäft angesprochen wird. Höflich und klar. Man kann hinzufügen: 'se ho bisogno la chiamo' (wenn ich etwas brauche, rufe ich Sie).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_029",
+    "de": "Kann ich es anprobieren?",
+    "it": "Posso provarlo? / Posso provarla?",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Posso provarlo? (il vestito) — Certo, il camerino è là.",
+    "beispiel_de": "Kann ich es anprobieren? (das Kleid) — Natürlich, die Umkleidekabine ist dort.",
+    "erklaerung": "'Provarlo/provarla' = es anprobieren, das Pronomen passt sich dem Genus des Kleidungsstücks an: provarlo (il vestito, il maglione), provarla (la giacca, la camicia). Umkleidekabine = il camerino. Man kann auch fragen: 'dove sono i camerini?' (wo sind die Umkleidekabinen?).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_030",
+    "de": "Haben Sie eine andere Größe?",
+    "it": "Avete un'altra taglia? / Ce l'avete in un'altra misura?",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Avete questo in un'altra taglia? Ce l'avete in 42? È troppo grande/piccolo.",
+    "beispiel_de": "Haben Sie das in einer anderen Größe? Haben Sie es in 42? Es ist zu groß/klein.",
+    "erklaerung": "'Taglia' = Kleidungsgröße, 'misura' = Maß/Größe (auch für Schuhe). 'Ce l'avete' = habt ihr es (ce + lo/la = habt ihr es). Italienische Größen folgen dem europäischen System: 38, 40, 42, 44 für Damen, 44, 46, 48 für Herren (Oberteile).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-21",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "phrase_031",
+    "de": "Ist das im Angebot / reduziert?",
+    "it": "È in saldo? / È scontato? / C'è uno sconto?",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "È in saldo? — Sì, c'è il 30% di sconto. I saldi iniziano il 5 gennaio.",
+    "beispiel_de": "Ist das im Sale? — Ja, es gibt 30% Rabatt. Der Winterschlussverkauf beginnt am 5. Januar.",
+    "erklaerung": "'I saldi' = Schlussverkauf (zweimal im Jahr: Januar und Juli). 'In saldo' = reduziert. 'Scontato' = mit Rabatt. 'C'è uno sconto?' = gibt es einen Rabatt? In kleinen Geschäften kann man manchmal höflich nach einem Rabatt fragen: 'mi fa un piccolo sconto?' (machen Sie mir einen kleinen Rabatt?).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_032",
+    "de": "Kann ich mit Karte zahlen?",
+    "it": "Posso pagare con la carta? / Accettate carte di credito?",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Posso pagare con la carta? — Mi dispiace, solo contanti. / Certo, che carta ha?",
+    "beispiel_de": "Kann ich mit Karte zahlen? — Leider nur bar. / Natürlich, welche Karte haben Sie?",
+    "erklaerung": "'La carta' = die (Kredit/Debit)karte. 'Contanti' = Bargeld. In kleinen Geschäften und auf Märkten in Italien oft noch Barzahlung üblich – immer etwas Bargeld dabei haben. 'Bancomat' = EC-Karte/Maestro. 'Carta di credito' = Kreditkarte.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_033",
+    "de": "Können Sie das wiederholen bitte?",
+    "it": "Può ripetere, per favore? / Puoi ripetere? (tu)",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Può ripetere più lentamente, per favore? Non ho capito bene.",
+    "beispiel_de": "Können Sie das bitte langsamer wiederholen? Ich habe nicht gut verstanden.",
+    "erklaerung": "'Può' = formell (Sie können), 'puoi' = informell (du kannst). 'Ripetere' = wiederholen. Diese Bitte ruhig kombinieren: può ripetere + più lentamente (langsamer) + per favore. Italiener reagieren sehr positiv wenn man zeigt dass man versucht die Sprache zu lernen.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-21",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "phrase_034",
+    "de": "Ich habe nicht verstanden",
+    "it": "Non ho capito. / Non ho capito bene.",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Non ho capito. Può ripetere? / Scusi, non ho capito bene cosa ha detto.",
+    "beispiel_de": "Ich habe nicht verstanden. Können Sie wiederholen? / Entschuldigung, ich habe nicht gut verstanden was Sie gesagt haben.",
+    "erklaerung": "'Non ho capito' = ich habe nicht verstanden (Passato Prossimo von capire). 'Bene' = gut/richtig hinzufügen mildert es etwas ab. Weitere nützliche Varianten: 'non capisco' (ich verstehe nicht – Presente), 'cosa ha detto?' (was haben Sie gesagt?), 'può scrivere?' (können Sie es aufschreiben?).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_035",
+    "de": "Können Sie langsamer sprechen?",
+    "it": "Può parlare più lentamente, per favore?",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Può parlare più lentamente? Sto imparando l'italiano.",
+    "beispiel_de": "Können Sie langsamer sprechen? Ich lerne Italienisch.",
+    "erklaerung": "'Più lentamente' = langsamer (Adverb). Man kann auch sagen: 'più piano' (leiser/langsamer – im Sinne von ruhiger). Den zweiten Satz 'sto imparando l'italiano' hinzuzufügen ist sehr empfehlenswert – Italiener werden sofort freundlicher und geduldiger!",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "phrase_036",
+    "de": "Einen Moment bitte",
+    "it": "Un attimo, per favore. / Un momento.",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Un attimo, per favore! — Certo, prendo tempo. / Aspetti un momento.",
+    "beispiel_de": "Einen Moment bitte! — Natürlich, ich warte. / Warten Sie einen Moment.",
+    "erklaerung": "'Un attimo' = ein Augenblick (sehr kurz). 'Un momento' = ein Moment (etwas länger). Beide sind gebräuchlich. 'Aspetti' = warten Sie (formelle Befehlsform). In der Umgangssprache auch: 'aspetta!' (warte!) oder 'un secondo!' (eine Sekunde!).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-21",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "phrase_037",
+    "de": "Ich lerne Italienisch",
+    "it": "Sto imparando l'italiano. / Studio l'italiano.",
+    "kategorie": "Nützliche Sätze",
+    "beispiel_it": "Scusi, sto imparando l'italiano, può parlare più lentamente? Parlo ancora poco italiano.",
+    "beispiel_de": "Entschuldigung, ich lerne Italienisch, können Sie langsamer sprechen? Ich spreche noch wenig Italienisch.",
+    "erklaerung": "'Sto imparando' = ich lerne gerade (laufender Prozess, Gerundium). 'Studio' = ich lerne/studiere (allgemein). Beide sind korrekt. Dieser Satz öffnet Türen – Italiener helfen sehr gerne wenn man zeigt dass man ihre Sprache lernt. Ergänzung: 'parlo ancora poco' (ich spreche noch wenig), 'capisco meglio di quanto parlo' (ich verstehe besser als ich spreche).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-21",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "vocab_pos_001",
+    "de": "hoch / niedrig – aber: groß (Person) = alto!",
+    "it": "alto / basso",
+    "kategorie": "Adjektive & Adverbien",
+    "beispiel_it": "Il muro è alto tre metri. Il soffitto è basso. È una persona alta. I prezzi sono alti.",
+    "beispiel_de": "Die Mauer ist drei Meter hoch. Die Decke ist niedrig. Sie ist eine große Person. Die Preise sind hoch.",
+    "erklaerung": "Faustregel: 'alto' = hoch (räumlich) UND groß (Körpergröße von Personen). Auf Deutsch sagt man für Körpergröße 'groß', auf Italienisch 'alto'. 'Grande' bedeutet im Italienischen NICHT groß im Sinne von Körpergröße, sondern bedeutend/wichtig/groß im abstrakten Sinn. Also: un uomo alto (ein großer Mann, Körpergröße), un uomo grande (ein bedeutender Mann). 'Basso' = niedrig/klein (Körpergröße oder räumlich).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-21",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "vocab_pos_002",
+    "de": "über / auf (räumlich) – sopra",
+    "it": "sopra / su",
+    "kategorie": "Adjektive & Adverbien",
+    "beispiel_it": "Il preventivo è sopra il tavolo. I coppi sono sul tetto. Abito al piano di sopra.",
+    "beispiel_de": "Der Kostenvoranschlag liegt auf dem Tisch. Die Ziegel sind auf dem Dach. Ich wohne im Stockwerk darüber.",
+    "erklaerung": "'Sopra' = über, oberhalb, oben drauf (betont die Position über etwas). 'Su' (verschmilzt mit Artikel: sul, sulla...) = auf, drauf (Kontakt mit der Oberfläche). Praktisch: 'sopra' ohne Artikel ist oft adverbiell (il piano di sopra = das Stockwerk darüber, qui sopra = hier oben). 'Metti sul tavolo' (leg es auf den Tisch) vs 'è sopra l'armadio' (es ist oben auf dem Schrank).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    },
+    "cache": {
+      "ollama_erklaerung": "Ok, perfetto! Vediamo di chiarire l'uso di \"sopra\" e \"su\".\n\n**Spiegazione in italiano:**\n\n\"Sopra\" e \"su\" indicano entrambi una posizione più alta rispetto a qualcosa, ma hanno sfumature diverse. \"Su\" è più generale e indica il contatto o la superficie (\"Il libro è sul tavolo\"). \"Sopra\" sottolinea spesso una posizione più alta o sopraqualificante, o indica una posizione superiore in un ordine (\"Il preventivo è sopra il tavolo\" significa che è in una posizione di importanza). Quando parliamo di piani di un edificio, usiamo \"sopra\" (\"Abito al piano di sopra\").\n\n**Suggerimento grammaticale:** Ricorda che \"su\" vuole la preposizione articolata (\"sul\", \"sullo\", \"sui\") davanti a nomi maschili e femminili che iniziano con vocale.\n\n**Secondo esempio pratico:**\n\n*   **Esempio:** \"Il materiale è su un bancale.\" (The material is on a pallet).\n\n**Erklärung auf Deutsch:**\n\n\"Sopra\" und \"su\" bedeuten beide eine Position über etwas, aber sie haben unterschiedliche Nuancen. \"Su\" ist allgemeiner und bedeutet Kontakt oder Oberfläche (\"Das Buch liegt auf dem Tisch\"). \"Sopra\" betont oft eine höhere oder übergeordnete Position oder eine Position in einer Reihenfolge (\"Der Kostenvoranschlag liegt oben auf dem Tisch\" bedeutet, dass er eine wichtige Position einnimmt). Wenn wir von Etagen eines Gebäudes sprechen, verwenden wir \"sopra\" (\"Ich wohne im Obergeschoss\").\n\n**Grammatikanmerkung:** Merken Sie sich, dass \"su\" einen artikulierten Präpositionswort (\"sul\", \"sullo\", \"sui\") vor männlichen und weiblichen Substantiven verlangt, die mit einem Vokal beginnen.\n\n**Zweites praktisches Beispiel:**\n\n*   **Beispiel:** \"Das Material steht auf einer Palette.\" (Das Material steht auf einer Palette).\n\n\n\nSpero sia chiaro! Hai altre domande o vuoi approfondire qualche aspetto?"
+    }
+  },
+  {
+    "id": "vocab_pos_003",
+    "de": "unter / unterhalb – sotto",
+    "it": "sotto",
+    "kategorie": "Adjektive & Adverbien",
+    "beispiel_it": "Il tubo è sotto il pavimento. Il gatto è sotto il tavolo. Abito al piano di sotto.",
+    "beispiel_de": "Das Rohr ist unter dem Boden. Die Katze ist unter dem Tisch. Ich wohne im Stockwerk darunter.",
+    "erklaerung": "'Sotto' = unter, unterhalb, darunter. Als Adverb: qui sotto (hier unten), lì sotto (dort unten), il piano di sotto (das Stockwerk darunter). Mit Artikel: sotto il pavimento, sotto la scala. Gegenteil: sopra. Nützlich auf der Baustelle: sotto il tetto (unter dem Dach), sotto il muro (unterhalb der Mauer).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-21",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "vocab_pos_004",
+    "de": "hier – qui / qua",
+    "it": "qui (punktuell) / qua (diffuser Bereich)",
+    "kategorie": "Adjektive & Adverbien",
+    "beispiel_it": "Vieni qui! Il problema è qui, in questo punto. Metti i materiali qua.",
+    "beispiel_de": "Komm her! Das Problem ist hier, an diesem Punkt. Stell die Materialien hier hin.",
+    "erklaerung": "'Qui' = hier, präziser Punkt. 'Qua' = hier, eher ein Bereich (diffuser). Im Alltag fast austauschbar. Faustregel: 'qui' mit Ortsangaben und Richtungsverben (vieni qui, metti qui), 'qua' eher allein oder als Bereich (da qua a là = von hier bis dort). Kombinationen: qui sopra (hier oben), qui sotto (hier unten), qui vicino (hier in der Nähe).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-21",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "vocab_pos_005",
+    "de": "dort – lì / là",
+    "it": "lì (punktuell) / là (diffuser Bereich)",
+    "kategorie": "Adjektive & Adverbien",
+    "beispiel_it": "Il materiale è lì, sul camion. Metti i mattoni là, in fondo. Lì sotto c'è un tubo.",
+    "beispiel_de": "Das Material ist dort, auf dem LKW. Stell die Ziegel dort hinten hin. Da unten ist ein Rohr.",
+    "erklaerung": "'Lì' = dort, präziser Punkt. 'Là' = dort, eher ein Bereich oder weiter weg. Im Alltag austauschbar. Kombinationen: lì sopra (dort oben), lì sotto (dort unten), là fuori (dort draußen), là dentro (dort drinnen). 'Di là' = auf der anderen Seite / dort drüben: vai di là (geh dort rüber).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-21",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": 2
+    }
+  },
+  {
+    "id": "vocab_pos_006",
+    "de": "dieser / diese / dieses – questo (nah)",
+    "it": "questo / questa / questi / queste",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Questo muro è umido. Questa tegola è rotta. Questi mattoni sono troppo pesanti. Queste misure sono sbagliate.",
+    "beispiel_de": "Diese Mauer ist feucht. Diese Dachpfanne ist kaputt. Diese Ziegel sind zu schwer. Diese Maße sind falsch.",
+    "erklaerung": "'Questo' = dieser (nah, in Reichweite). Beugt sich nach Genus und Numerus: questo (mask. Sg.), questa (fem. Sg.), questi (mask. Pl.), queste (fem. Pl.). Einfaches Muster – keine Ausnahmen. Als Pronomen ohne Substantiv: questo è il problema (das ist das Problem), questo sì! (das schon!/genau das!). Gegenteil: quello (jener, fern).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "vocab_pos_007",
+    "de": "jener / jene / jenes – quello (fern, wie der Artikel)",
+    "it": "quel / quello / quell' / quella / quei / quegli / quelle",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Quel muro è solido. Quello zaino è pesante. Quell'operaio lavora bene. Quella casa è bella. Quei coppi sono tipici. Quegli strumenti sono cari.",
+    "beispiel_de": "Diese Mauer dort ist solide. Dieser Rucksack dort ist schwer. Dieser Arbeiter dort arbeitet gut. Dieses Haus dort ist schön. Diese Ziegel dort sind typisch. Diese Werkzeuge dort sind teuer.",
+    "erklaerung": "Faustregel: 'quello' folgt exakt demselben Muster wie der bestimmte Artikel il/lo/l'/la/i/gli/le – einfach 'qu' davor. quel=il, quello=lo, quell'=l', quella=la, quei=i, quegli=gli, quelle=le. Quello zeigt auf etwas Entferntes (jener) – im modernen Italienisch oft auch für 'der/die/das dort'. Als Pronomen: quello è il muratore (das dort ist der Maurer).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "vocab_pos_008",
+    "de": "ein Stück Käse bitte – pezzo vs fetta vs po'",
+    "it": "un pezzo di formaggio / una fetta di formaggio / un po' di formaggio",
+    "kategorie": "Essen & Einkaufen",
+    "beispiel_it": "Un pezzo di parmigiano, per favore. Una fetta di prosciutto. Un po' di pecorino, grazie. Un etto di formaggio.",
+    "beispiel_de": "Ein Stück Parmesan bitte. Eine Scheibe Schinken. Ein bisschen Pecorino, danke. 100g Käse.",
+    "erklaerung": "Drei verschiedene 'Stück': 'un pezzo di' = ein Stück (beliebige Form, auch groß: un pezzo di parmigiano = ein Stück vom Block). 'Una fetta di' = eine Scheibe (dünn geschnitten: prosciutto, salame, formaggio a fette). 'Un po' di' = ein bisschen (unbestimmte kleine Menge). Im Käseladen praktischer: 'un etto' (100g) oder 'mezzo etto' (50g) – das ist die übliche Art zu bestellen.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_per_001",
+    "de": "per – Zweck/Ziel: um zu... / für",
+    "it": "per + Infinitiv = um zu | per + Substantiv = für",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Vado in centro per comprare i materiali. Questo strumento è per tagliare. Ho chiamato per chiedere il preventivo.",
+    "beispiel_de": "Ich gehe ins Zentrum um Materialien zu kaufen. Dieses Werkzeug ist zum Schneiden. Ich habe angerufen um den Kostenvoranschlag zu fragen.",
+    "erklaerung": "Faustregel: 'per + Infinitiv' = um zu (Zweck einer Handlung). Immer wenn man auf Deutsch 'um zu' sagt, kommt auf Italienisch 'per + Infinitiv'. Wichtig: kein 'di' dazwischen – nie 'per di fare', immer direkt 'per fare'. Gegensatz zu 'da' beim Objektzweck: un coltello per tagliare (ein Messer zum Schneiden = allgemein) vs un coltello da cucina (ein Küchenmesser = Kategorie).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_per_002",
+    "de": "per – Empfänger und Richtung",
+    "it": "per + Person = für jemanden | per + Ort = nach/in Richtung",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Questo preventivo è per il cliente. Il treno per Lucca parte alle nove. Parto per la Germania domani.",
+    "beispiel_de": "Dieser Kostenvoranschlag ist für den Kunden. Der Zug nach Lucca fährt um neun. Ich fahre morgen nach Deutschland ab.",
+    "erklaerung": "'Per + Person' = für jemanden (Empfänger): è per te, è per il muratore. 'Per + Ort' = in Richtung/nach (Ziel einer Reise, noch nicht angekommen): il treno per Roma (der Zug nach Rom), parto per la Toscana (ich fahre in die Toskana ab). Unterschied zu 'a/in': quando arrivo a Roma (wenn ich in Rom ankomme) vs parto per Roma (ich fahre nach Rom ab) – per betont den Aufbruch, a/in die Ankunft.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_per_003",
+    "de": "per – Dauer (abgeschlossen) vs da – seit (noch aktiv)",
+    "it": "ho lavorato per tre anni (vorbei) ↔ lavoro qui da tre anni (noch aktiv)",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Ho lavorato in Germania per cinque anni. (abgeschlossen) — Lavoro qui da tre anni. (noch immer)",
+    "beispiel_de": "Ich habe fünf Jahre in Deutschland gearbeitet. (fertig) — Ich arbeite hier seit drei Jahren. (noch immer)",
+    "erklaerung": "Faustregel: 'per + Zeitangabe' = Dauer einer abgeschlossenen Handlung (mit Passato Prossimo/Imperfetto). 'Da + Zeitangabe' = seit (Handlung begann in der Vergangenheit und dauert noch an, mit Presente). Klassischer Fehler: 'lavoro qui per tre anni' – das ist falsch. Italiano sagt Presente + da für 'seit': lavoro da tre anni = ich arbeite seit drei Jahren (und tue es noch).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_per_004",
+    "de": "per – Meinung / Preis / Ursache",
+    "it": "per me... (meiner Meinung) | l'ho pagato per... (Preis) | grazie per... (Dank/Ursache)",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Per me il preventivo è troppo alto. L'ho comprato per duecento euro. Grazie per l'aiuto. Mi hanno licenziato per un errore.",
+    "beispiel_de": "Meiner Meinung nach ist der Kostenvoranschlag zu hoch. Ich habe es für zweihundert Euro gekauft. Danke für die Hilfe. Sie haben mich wegen eines Fehlers entlassen.",
+    "erklaerung": "'Per me' = meiner Meinung nach / für mich (Meinung). 'Per + Preis' = für (Kaufpreis): l'ho preso per poco (ich hab's für wenig bekommen). 'Per + Ursache' = wegen/aufgrund von: chiuso per ferie (wegen Urlaub geschlossen), grazie per tutto (danke für alles). Diese 'per'-Bedeutungen sind oft direkter Übersetzung aus dem Deutschen zugänglich.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_da_001",
+    "de": "da – Herkunft (woher?) vs di – Herkunft (woher/woraus?)",
+    "it": "vengo da Roma (Person kommt von) | sono di Roma (Person stammt aus) | fatto di legno (Material)",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Vengo da Berlino. (ich komme gerade von dort) — Sono di Berlino. (ich stamme aus Berlin) — Una porta di legno. (eine Holztür)",
+    "beispiel_de": "Ich komme von Berlin. (Bewegung) — Ich bin aus Berlin. (Herkunft/Identität) — Eine Holztür. (Material)",
+    "erklaerung": "Faustregel: 'venire da' = Bewegung von einem Ort weg. 'Essere di' = Herkunft/Identität (woher man stammt). Di + Material = woraus etwas gemacht ist: di legno (aus Holz), di pietra (aus Stein), di ferro (aus Eisen). Klassischer Fehler: 'sono da Berlino' – falsch für Herkunft. 'Da dove vieni?' (woher kommst du?) → 'vengo da Berlino / sono di Berlino' (beide möglich, aber verschiedene Nuancen).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_da_002",
+    "de": "da – seit (Zeitpunkt, noch aktiv) mit Presente",
+    "it": "da + Zeitpunkt/Dauer + Presente = seit",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Aspetto da un'ora. Il cantiere è aperto da lunedì. Conosco quest'impresa da anni.",
+    "beispiel_de": "Ich warte seit einer Stunde. Die Baustelle ist seit Montag offen. Ich kenne diese Firma seit Jahren.",
+    "erklaerung": "Faustregel: 'da' + Presente = seit (Handlung läuft noch). Im Deutschen steht Perfekt ('ich habe gewartet'), im Italienischen Presente ('aspetto da...'). Das ist einer der häufigsten Fehler für Deutschsprachige. Ausnahme: war es eine Handlung die NICHT mehr läuft, dann Imperfetto + da: aspettavo da un'ora quando è arrivato (ich wartete seit einer Stunde als er ankam).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_da_003",
+    "de": "da – Objektzweck (wofür bestimmt?) vs di – Inhalt",
+    "it": "bicchiere da vino (Weinglas) ↔ bicchiere di vino (Glas Wein)",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Un bicchiere da vino. (Weinglas – dafür bestimmt) — Un bicchiere di vino. (ein Glas Wein – Inhalt) — Una tazza da caffè. — Una tazza di caffè.",
+    "beispiel_de": "Ein Weinglas. (Bestimmung) — Ein Glas Wein. (Inhalt) — Eine Kaffeetasse. — Eine Tasse Kaffee.",
+    "erklaerung": "Faustregel: 'da' = wofür das Objekt bestimmt ist (Kategorie/Funktion): bicchiere da vino, tazza da tè, costume da bagno (Badeanzug), scarpe da lavoro (Arbeitsschuhe), macchina da scrivere (Schreibmaschine). 'Di' = was drin ist (Inhalt): un bicchiere di acqua, una tazza di latte. Test: kann man es leeren? → di (Inhalt). Ist es die Kategorie des Objekts? → da.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_da_004",
+    "de": "da – bei jemandem / zum Arzt gehen",
+    "it": "da + Person = bei jemandem / zu jemandem",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Vado dal medico. Sono dall'idraulico. Vengo dal muratore. Ci vediamo da me. Andiamo da Marco.",
+    "beispiel_de": "Ich gehe zum Arzt. Ich bin beim Klempner. Ich komme vom Maurer. Wir treffen uns bei mir. Wir gehen zu Marco.",
+    "erklaerung": "'Da + Person' = bei jemandem oder zu jemandem. Immer mit Artikel wenn Beruf+Artikel: dal medico, dall'idraulico, dal dentista. Ohne Artikel bei Eigennamen: da Marco, da Maria. Bei Pronomen: da me (bei mir), da te (bei dir), da lui/lei (bei ihm/ihr), da noi (bei uns). Typisch: ci vediamo da me/da te (wir treffen uns bei mir/dir).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_di_001",
+    "de": "di – Zugehörigkeit / Genitiv (des/der/von)",
+    "it": "di + Artikel = del/della/dei... (Genitiv)",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Il costo dei lavori. La qualità della pietra. Il numero degli operai. Il proprietario della casa.",
+    "beispiel_de": "Die Kosten der Arbeiten. Die Qualität des Steins. Die Anzahl der Arbeiter. Der Eigentümer des Hauses.",
+    "erklaerung": "'Di' ist die Genitiv-Präposition – entspricht dem deutschen 'des/der' oder 'von'. Verschmilzt mit dem Artikel: del, dello, dell', della, dei, degli, delle. Typische Konstruktionen auf der Baustelle: il costo del materiale, la lunghezza del muro, il proprietario dell'immobile. Wenn kein Artikel folgt: ho bisogno di aiuto (ich brauche Hilfe – kein Artikel, kein Verschmelzen).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_di_002",
+    "de": "di – Thema ('über etwas reden/schreiben')",
+    "it": "parlare di / scrivere di / sapere di / trattarsi di",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Parliamo di lavoro. Ho letto di questo problema. Sai qualcosa di questo muratore? Si tratta di un errore.",
+    "beispiel_de": "Wir reden über Arbeit. Ich habe über dieses Problem gelesen. Weißt du etwas über diesen Maurer? Es handelt sich um einen Fehler.",
+    "erklaerung": "Nach Verben des Sagens, Denkens, Wissens steht oft 'di' für das Thema: parlare di, scrivere di, sapere di, sentire di, trattarsi di (sich handeln um). Im Deutschen steht 'über' – im Italienischen fast immer 'di'. Ausnahme: 'parlare su' ist auch möglich aber seltener. 'Di cosa si tratta?' = Worum handelt es sich? – sehr nützliche Frage.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_di_003",
+    "de": "di – Vergleich ('als' bei Vergleichen)",
+    "it": "più/meno + Adjektiv + di = größer/kleiner als",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Il preventivo è più alto di quello dell'anno scorso. È meno caro di quanto pensavo. Sei più esperto di me.",
+    "beispiel_de": "Der Kostenvoranschlag ist höher als der vom letzten Jahr. Es ist weniger teuer als ich dachte. Du bist erfahrener als ich.",
+    "erklaerung": "Faustregel: 'di' = als bei direkten Vergleichen mit Substantiv oder Pronomen: più grande di me (größer als ich), meno caro di ieri (weniger teuer als gestern). 'Che' statt 'di' wenn man zwei Adjektive oder zwei Verben vergleicht: è più bello che utile (es ist schöner als nützlich). Im Zweifel: vergleicht man zwei Substantive/Pronomen → di; vergleicht man zwei Eigenschaften → che.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_perdadi_001",
+    "de": "per / da / di – Schnellübersicht Verwechslungsfallen",
+    "it": "per = Zweck/für/wegen | da = seit/von/bei | di = von/des/über/als",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Vado per comprare. (per=Zweck) — Lavoro da tre anni. (da=seit) — Il tetto della casa. (di=Genitiv) — Vengo da Roma. (da=Herkunft/Bewegung) — Sono di Roma. (di=Identität) — Grazie per tutto. (per=wegen/für)",
+    "beispiel_de": "Ich gehe um zu kaufen. — Ich arbeite seit drei Jahren. — Das Dach des Hauses. — Ich komme von Rom. — Ich bin aus Rom. — Danke für alles.",
+    "erklaerung": "Die drei häufigsten Verwechslungen: (1) 'per' vs 'da' bei Dauer: per tre anni (drei Jahre lang, abgeschlossen) vs da tre anni (seit drei Jahren, noch aktiv). (2) 'da' vs 'di' bei Herkunft: vengo da Roma (Bewegung) vs sono di Roma (Identität). (3) 'da' vs 'di' bei Objekten: bicchiere da vino (Weinglas, Funktion) vs bicchiere di vino (Glas Wein, Inhalt).",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_da_005",
+    "de": "'dal medico' (Person) vs 'al comune' (Ort/Gebäude)",
+    "it": "a + Ort/Gebäude → al | da + Person → dal",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Vado al supermercato. (Gebäude) — Vado dal medico. (Person) — Vado in farmacia. (Institution) — Vado dal farmacista. (Person)",
+    "beispiel_de": "Ich gehe zum Supermarkt. — Ich gehe zum Arzt. — Ich gehe zur Apotheke. — Ich gehe zum Apotheker.",
+    "erklaerung": "Faustregel: 'a/al' = zu einem Ort oder Gebäude. 'da/dal' = zu einer Person oder deren Ort. Der Arzt ist kein Gebäude sondern ein Mensch → dal medico. Das gilt konsequent: vado in banca (Institution/Ort) vs vado dal direttore (Person), vado al cantiere (Ort) vs vado dal muratore (Person). Wenn man betonen will dass man zu jemandem persönlich geht → immer 'da'. Mit Eigennamen kein Artikel: vado da Marco, da Maria.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  },
+  {
+    "id": "gram_da_006",
+    "de": "'dai capelli neri' – da + Artikel = charakteristisches Merkmal",
+    "it": "da + Artikel = Merkmal das zur Person/Sache gehört (≠ di = Material)",
+    "kategorie": "Grammatik",
+    "beispiel_it": "Una ragazza dai capelli neri. Un uomo dagli occhi blu. Una casa dal tetto rosso. Riconosco Marco dai capelli.",
+    "beispiel_de": "Ein Mädchen mit schwarzen Haaren. Ein Mann mit blauen Augen. Ein Haus mit rotem Dach. Ich erkenne Marco an seinen Haaren.",
+    "erklaerung": "Faustregel: 'da + Artikel' = ein charakteristisches Merkmal das zur Person/Sache gehört. Der Artikel ist entscheidend: 'dai capelli neri' = die schwarzen Haare gehören zu ihr, sind ihr Merkmal. 'Di capelli neri' wäre falsch – das würde 'aus schwarzen Haaren bestehend' bedeuten wie 'una porta di legno' (Holztür). Test: kann man 'con i...' ersetzen? → una ragazza con i capelli neri = ja, dann ist 'dai' richtig. Wörtlich bedeutet 'dai capelli' = 'von den Haaren her' → Merkmal das von der Person ausgeht.",
+    "meta": {
+      "intervall_tage": 1,
+      "naechste_wiederholung": "2026-04-19",
+      "easiness_factor": 2.5,
+      "wiederholungen": 0,
+      "letzte_bewertung": null
+    }
+  }
+]
